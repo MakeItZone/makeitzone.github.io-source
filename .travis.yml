@@ -8,7 +8,7 @@ before_install:
 - git submodule update --init --recursive
 install:
 - 
-- ./install-dependencies.sh
+- ./setup.sh
 
 script:
 notifications:
