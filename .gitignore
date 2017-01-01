@@ -103,3 +103,6 @@ share
 pyvenv.cfg
 .venv
 pip-selfcheck.json
+
+# pelican
+output/
