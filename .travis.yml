@@ -8,7 +8,7 @@ before_install:
 - git submodule update --init --recursive
 install: ./setup.sh
 
-script:
+script: echo "Success!"
 notifications:
   email:
     on_success: always
