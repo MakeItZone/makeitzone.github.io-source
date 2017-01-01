@@ -6,9 +6,7 @@ python:
 - 3.6
 before_install:
 - git submodule update --init --recursive
-install:
-- 
-- ./setup.sh
+install: ./setup.sh
 
 script:
 notifications:
