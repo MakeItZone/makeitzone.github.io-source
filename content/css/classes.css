@@ -1,0 +1,69 @@
+#childrens_classes_bg {
+	background-image: url(/images/Minecraft_Background.jpg);
+	background-size: 25%;
+    background-repeat: repeat;
+    background-position: center 50%;
+
+}
+
+#adults_classes_bg {
+	background-image: url(/images/seamless-paper-patterns-1.jpg);
+	background-size: 25%;
+    background-repeat: repeat;
+    background-position: center 50%;
+
+}
+
+.padding {
+	padding: 25px;
+}
+
+.green {
+	background-color: rgba(192,255,192,0.9);
+    box-shadow:3px 3px 6px 0px rgba(0,0,0,.12)
+}
+
+.blue {
+	background-color: rgba(192,225,255,0.9);
+    box-shadow:3px 3px 6px 0px rgba(0,0,0,.12)
+}
+
+.red {
+	background-color: rgb(168,96,96);	
+}
+
+.ribbon-holder{
+    overflow: hidden;
+    background: transparent;
+    height:125px;
+    width: 125px;
+    float:right;
+    }
+    
+.ribbon{
+	position: relative;
+	background: blue;
+    color: white;
+    transform: rotate(45deg);
+    text-align: center;
+    top: 15px;
+    left: -45px;
+    width:250px;
+    box-shadow:0 0px 6px 3px rgba(0,0,0,.12),0 0px 6px 3px rgba(0,0,0,.12);
+}
+
+.pop {
+ 	visibility: hidden;
+}
+
+.icon {
+	width: 40%;
+	padding: 10px;
+}
+
+.divider {
+	min-height: 20vh;
+	position: relative;
+	margin-top: -10px;
+}
+

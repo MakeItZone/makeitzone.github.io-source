@@ -1,0 +1,177 @@
+#pinContainer {
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+    -webkit-perspective: 1000;
+    perspective: 1000;
+    transform-style: preserve-3d;
+    visibility:hidden;
+}
+
+/* see: http://stackoverflow.com/questions/20547819/vertical-align-with-bootstrap-3/25517025#25517025 */
+.slide {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+div.slide table {
+    background: transparent; 
+    border: 0px transparent; 
+    padding: 0; 
+    width: 100%; 
+    height: 75%;
+}
+
+div.slide tr {
+    background: transparent;
+}
+
+.slidetext {
+    font-family: 'Asap', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+	color:black;
+	transform-style: preserve-3d;
+	transform: 600;
+	-webkit-perspective: 500;
+	perspective: 500;
+	z-index: 2;
+	font-size:3vw;
+    line-height:4vw;
+	text-align: center;
+	/*-webkit-text-stroke: 1px white;*/
+	text-shadow: 0px 0px 8px #fff, 0px 0px 8px #fff, 0px 0px 8px #fff, 0px 0px 8px #fff;
+/*	    -webkit-font-smoothing: antialiased;
+-moz-font-smoothing:antialiased;
+*/
+}
+
+.slidefooter {
+    font-family: 'Asap', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+	color:black;
+	transform-style: preserve-3d;
+	transform: 600;
+	-webkit-perspective: 500;
+	perspective: 500;
+	z-index: 2;
+	font-size:10px;
+    line-height:12px;
+	text-align: center;
+	/*-webkit-text-stroke: 1px white;*/
+	text-shadow: 0px 0px 8px #fff, 0px 0px 8px #fff, 0px 0px 8px #fff;
+/*	    -webkit-font-smoothing: antialiased;
+-moz-font-smoothing:antialiased;
+*/
+}
+
+
+/* https://scotch.io/tutorials/how-to-change-a-css-background-images-opacity */
+/* Note: if I add this to the .slide class, all non-animated text disappears. ARG! */
+/* and have to copy this for each div. */
+#p0:before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    opacity: 1;
+    background-image: url('/images/steveston-cannery.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+#p1:before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    opacity: 1;
+    background-image: url('/images/foyer.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+#p2:before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    opacity: 1;
+    background-image: url('/images/hackerclass.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+#p3:before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    opacity: 1;
+    background-image: url('/images/generations.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+#p4:before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    opacity: 1;
+    background-image: url('/images/makerspace.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+.bouncy {
+	font-style: italic;
+	float: left;
+	font-size: 28px;
+	text-shadow: 0px 0px 8px #fff, 0px 0px 8px #fff, 0px 0px 8px #fff, 0px 0px 8px #fff;
+
+}

@@ -1,0 +1,11 @@
+/* fix for linked anchors scrolling to be under the fixed nav-bar */
+
+h1, h2, h3, h4, h5, h6 {
+	padding-top: 70px;
+	margin-top: -70px;
+}
+
+/* fix for collapsed menu being to short */
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+	max-height: none;
+}

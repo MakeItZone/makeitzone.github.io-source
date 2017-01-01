@@ -1,0 +1,47 @@
+.paragraph {
+  padding: 15px 15% 15px 15%;
+  margin: 0px auto;
+}
+
+.green {
+  background: rgb(64, 192, 64);
+}
+
+.purple {
+  background: rgb(255, 192, 255);
+}
+
+.spacer {
+	padding: 20px;
+}
+
+.parallaxParent {
+	height: 50vh;
+	overflow: hidden;
+}
+
+.parallaxParentSmall {
+	height: 25vh;
+}
+
+.parallaxParent > * {
+	height: 200%;
+	position: relative;
+	top: -100%;
+}
+
+.pop {
+  visibility: hidden;
+}
+
+#parallax1bg {
+	background-image: url(/images/blackstars.jpg);
+}
+
+#parallax2bg {
+	background-image: url(/images/circuit.jpg);
+}
+
+#parallax3bg {
+	background-image: url(/images/baby-pink-pastel-tileable-patterns-12.jpg);
+}
