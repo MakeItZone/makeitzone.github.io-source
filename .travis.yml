@@ -5,6 +5,8 @@ addons:
   apt:
     packages:
       graphviz
+      optipng
+      jpegtran
 
 branches:
   only:
