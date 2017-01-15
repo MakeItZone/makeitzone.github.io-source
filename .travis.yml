@@ -4,7 +4,7 @@ dist: trusty
 addons:
   apt:
     packages:
-      plantuml
+      graphviz
 
 branches:
   only:
@@ -13,6 +13,8 @@ language: python
 python:
 - 3.6
 before_install:
+- wget "http://sourceforge.net/projects/plantuml/files/plantuml.jar/download"
+- export PATH=$PATH:$PWD
 - git submodule update --init --recursive
 install: ./setup.sh
 
