@@ -5,6 +5,8 @@ language: python
 python:
 - 3.6
 before_install:
+- sudo apt-get -qq update
+- sudo apt-get install -y plantuml
 - git submodule update --init --recursive
 install: ./setup.sh
 
