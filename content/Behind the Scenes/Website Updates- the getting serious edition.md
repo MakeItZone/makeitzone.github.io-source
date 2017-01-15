@@ -66,10 +66,8 @@ But we have a second repository: where the generated website is published to!
 
 We can use [github] to generate an access token for the destination repository. [Travis] get's all of it's configuration and data from the `.travis.yml` file. So simple: put the token in the `.travis.yml` file. But that's publicly viewable- anyone can read that file and hence get access to push *anything* to your public website!
 
-Thankfully the [travis] team thought of this. Instead, you can use 
+Thankfully the [travis] team thought of this. They provide a `ruby` tool, called `travis` that will let you add private data as an encrypted blob inside the `.travis.yml` file. So the data is still stored publicly, but only the [travis] system can decrypt it and turn it into something useful!
 
-
-The later ones have some explanations about how to protect security tokens in the config files. Good to read and understand.
 
 
 [pelican]: https://github.com/getpelican/pelican
