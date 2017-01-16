@@ -110,3 +110,6 @@ pip-selfcheck.json
 # pelican
 output/
 *.pid
+
+*.jar
+
