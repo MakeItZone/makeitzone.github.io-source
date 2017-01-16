@@ -27,15 +27,15 @@ So as they say on Futurama, *time to kick it up a notch*!
 
 Adding a forum and wiki will be covered in [another post]({filename}/Behind the Scenes/Setting up a Discourse Forum.md)
 
-## For Collaborators ##
+## Background ##
 
-All of these goals are being achieved by splitting the source (markdown files, images, etc) from the generated website.
-
-Many [pelican] static blogs are hosted via Github. By some clever usage of `git` the source and generated site are kept in different branches of teh same repository. 
+Many [pelican] static blogs are hosted via Github. By some clever usage of `git` the source and generated site are kept in different branches of the same repository. 
 
 However, this is a bit of a *subversion* (yes, bad pun for the dev geeks): usually branches are for different versions of the same thing. This setup breaks that expectation. The generated output is usually *force pushed*, overwriting any other changes.
 
 It's another thing to remember, and makes it much harder to explain to people new to version control. 
+
+That's how this website (was) generated.
 
 Googling for [pelican] and CI (continuous integration) lead to these great guides:
 
@@ -47,7 +47,7 @@ The [first article][zonca] suggests splitting the pelican site into *two* `git` 
 
 Face-palm time ;-). Much simpler. Collaborators can just use [github]'s web editing in the source repo, on the default `master` branch. [Travis] will see the changes, generate the website content, and upload it to the right place in another repo. The updated content will be served up by [github]. Collaborators can go to this 'output' repository and see the generated content- they won't have to switch branches.
 
-So the process will be:
+So the publishing process will be:
 
 ::uml::
 start
@@ -67,6 +67,12 @@ But we have a second repository: where the generated website is published to!
 We can use [github] to generate an access token for the destination repository. [Travis] get's all of it's configuration and data from the `.travis.yml` file. So simple: put the token in the `.travis.yml` file. But that's publicly viewable- anyone can read that file and hence get access to push *anything* to your public website!
 
 Thankfully the [travis] team thought of this. They provide a `ruby` tool, called `travis` that will let you add private data as an encrypted blob inside the `.travis.yml` file. So the data is still stored publicly, but only the [travis] system can decrypt it and turn it into something useful!
+
+## Process ##
+
+### Split Source and Destination Repos ###
+
+So the first thing  done: split the source (markdown files, images, etc) from the generated website.
 
 
 

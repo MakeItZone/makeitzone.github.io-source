@@ -1,12 +1,13 @@
 sudo: false
-dist: trusty
+dist: precise
 
 addons:
   apt:
     packages:
       graphviz
       optipng
-      jpegtran-bin
+      libjpeg-progs
+      plantuml
 
 branches:
   only:
@@ -15,8 +16,6 @@ language: python
 python:
 - 3.6
 before_install:
-- wget "http://sourceforge.net/projects/plantuml/files/plantuml.jar/download"
-- export PATH=$PATH:$PWD
 - git submodule update --init --recursive
 install: ./setup.sh
 
