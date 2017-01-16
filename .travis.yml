@@ -10,7 +10,7 @@ language: python
 python:
 - 3.6
 before_install:
-- wget "http://sourceforge.net/projects/plantuml/files/plantuml.jar/download"
+- wget "http://sourceforge.net/projects/plantuml/files/plantuml.jar/download" -O plantuml.jar
 - export PATH=$PATH:$PWD
 - git submodule update --init --recursive
 install: "./setup.sh"
