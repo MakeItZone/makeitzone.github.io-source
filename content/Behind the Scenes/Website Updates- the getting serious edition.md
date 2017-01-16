@@ -66,7 +66,7 @@ But we have a second repository: where the generated website is published to!
 
 We can use [github] to generate an access token for the destination repository. [Travis] get's all of it's configuration and data from the `.travis.yml` file. So simple: put the token in the `.travis.yml` file. But that's publicly viewable- anyone can read that file and hence get access to push *anything* to your public website!
 
-Thankfully the [travis] team thought of this. They provide a `ruby` tool, called `travis` that will let you add private data as an encrypted blob inside the `.travis.yml` file. So the data is still stored publicly, but only the [travis] system can decrypt it and turn it into something useful!
+Thankfully the [travis] team thought of this. They provide a `ruby` tool, called `travis` that will let you add private data as an encrypted blob inside the `.travis.yml` file. So the data is still stored publicly, but only the [travis] system can decrypt it and turn it into something useful! The data is stored as `environment` vairiables that will be available from the build script. Be careful though- even the environment variable name is encrypted.
 
 ## Process ##
 
@@ -75,6 +75,9 @@ Thankfully the [travis] team thought of this. They provide a `ruby` tool, called
 So the first thing  done: split the source (markdown files, images, etc) from the generated website.
 
 
+### Configuring Travis ###
+
+[Packages available to build containers](https://github.com/travis-ci/apt-package-whitelist)
 
 [pelican]: https://github.com/getpelican/pelican
 [github]: https://github.com

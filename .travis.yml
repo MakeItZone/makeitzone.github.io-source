@@ -1,13 +1,8 @@
 sudo: false
 dist: precise
-
 addons:
   apt:
-    packages:
-      graphviz
-      optipng
-      libjpeg-progs
-
+    packages: graphviz optipng libjpeg-progs
 branches:
   only:
   - master
@@ -18,11 +13,13 @@ before_install:
 - wget "http://sourceforge.net/projects/plantuml/files/plantuml.jar/download"
 - export PATH=$PATH:$PWD
 - git submodule update --init --recursive
-install: ./setup.sh
-
+install: "./setup.sh"
 script: make html
+after_success: "./deploy.sh"
 notifications:
   email:
     on_success: always
     on_failure: always
-
+env:
+  global:
+    secure: ppc2yN2TTfDB5SwPMqHjQsyQFfaDLxcGCE9s7dy7d7RQMIGS/dsqge54pLJjokrg4a2MfBlF+MUcD9UoZZjsSIoRLgf798iPDurBDozxO2lySPIcvEp/Ix7urbwslbBR6KwLh1MWEARFif/bVy00HOFevQX5sZ04Rvdnc8lvCHjB1k1DRuiWD8G+MHmAY2Kr91OuZCRLvfxpAEOBM0Rr3fhdL4At0m6HlLMWUllSqX6rvn3hgtCKQGlwJDWL3+DI+8bSnXyFE+J+SZKFGmfOIhj6GQnw1Znqc8qju6PknYxucKyVGOIrqFQ9SSu/trqWJrSddnCH+Vs+q6npGQzWNThthkGCQ2k2VYpR2HiavJ2GqgzUVRq1mMHApJGeG3nnmKBohDbgBY+BEvepZoC+XSU8kSwl8D8wYZZGtBJUKslCnk7dmCxNnAToJoNzD9a+9lskiBHu8zjkQG4EHf8vXX98bHcHG7N+Kpr64/RyESnTF+snNeiLLGBlrQRds1to7626lbTqQntZ0JsPDPNBuoPAYv+dw4AuxhYu1Wf8azUVVjaZHzaUVwuebG0Z8lnhXht0MSPnTbpZAX7IMImLpj7KxjlKLQkeqiw4ZXtO/MYglBMHo2amCSJLJYn/HWC1iEtGSP3dpKS3RGAEUlqzZHS5vrBXyBLzIC7cJOHj55c=
