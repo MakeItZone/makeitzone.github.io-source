@@ -7,7 +7,6 @@ addons:
       graphviz
       optipng
       libjpeg-progs
-      plantuml
 
 branches:
   only:
