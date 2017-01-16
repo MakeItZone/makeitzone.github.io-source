@@ -6,7 +6,7 @@ addons:
     packages:
       graphviz
       optipng
-      jpegtran
+      jpegtran-bin
 
 branches:
   only:
