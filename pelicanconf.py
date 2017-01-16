@@ -73,11 +73,11 @@ PLUGINS = ["related_posts",
            "gallery", 
            "image_process",
            "optimize_images", 
-           "pdf-img",
+#           "pdf-img",
 #           "pdf", # incompatible with python 3
 #           "pelican_vimeo", 
            "pelican_javascript",
-           #"pelicanfly", 
+#           "pelicanfly", 
            "photos", 
            #"render_math", 
            "sub_parts", 
@@ -92,19 +92,26 @@ PLUGINS = ["related_posts",
 
 ]
 
-ACE_EDITOR_PLUGIN = {}
+ACE_EDITOR_PLUGIN = {
+  'ACE_EDITOR_THEME': 'monokai',
+  
+}
 
 # See the docs! You've got to manually add the default extensions if you set this
-MARKDOWN = { 'markdown.extensions.codehilite': {
-                    'css_class':'highlight',
-                    'linenums': False,
-                    'use_pygments': False
-                  },
-                  'markdown.extensions.extra': {}, 
-                  'markdown.extensions.meta': {}, 
-                  'markdown.extensions.toc' : {}, 
-                  'mdx_video': {}
-                }
+
+
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {'css_class': 'highlight',
+                                           'linenums': False,
+                                           'use_pygments': False},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+        'markdown.extensions.toc' : {}, 
+        'plantuml.plantuml_md': {},
+    },
+    'output_format': 'html5',
+}
 
 SITEMAP = {'format':'xml'}
 

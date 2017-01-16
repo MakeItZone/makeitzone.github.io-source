@@ -1,4 +1,4 @@
-Title:	Setting up a Discourse Forum.md
+Title:	Setting up a Discourse Forum
 date:	1/1/2017
 tags:	web, business
 Series:	Website Dev

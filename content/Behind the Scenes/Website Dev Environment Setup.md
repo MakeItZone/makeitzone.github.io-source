@@ -4,6 +4,7 @@ tags: web, business
 Series: Website Dev
 
 [TOC]
+
 ## Setting up a local Website Dev Environment
 
 ```
@@ -16,4 +17,4 @@ source bin/activate
 
 ```
 
-Should be able locally edit and preview.
+You should now be able locally edit and preview.

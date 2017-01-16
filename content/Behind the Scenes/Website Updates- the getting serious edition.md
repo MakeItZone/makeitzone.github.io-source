@@ -1,4 +1,4 @@
-Title:	Website Updates- the getting serious edition.md
+Title:	Website Updates- the Getting Serious Edition
 date:	1/1/2017
 tags:	web, business
 Series:	Website Dev
@@ -72,12 +72,25 @@ Thankfully the [travis] team thought of this. They provide a `ruby` tool, called
 
 ### Split Source and Destination Repos ###
 
-So the first thing  done: split the source (markdown files, images, etc) from the generated website.
+So the first thing to be  done: split the source (markdown files, images, etc) from the generated website.
+
+This is very easy if you don't need to keep the repository history. Just create a new repository on [github] and copy over the content. 
+
 
 
 ### Configuring Travis ###
 
 [Packages available to build containers](https://github.com/travis-ci/apt-package-whitelist)
+
+
+### Final Clean Up ###
+To save future confusion, delete the `source` branch from the repo that holds the published static files:
+
+```bash
+git branch -d source
+git push origin :source
+```
+
 
 [pelican]: https://github.com/getpelican/pelican
 [github]: https://github.com
