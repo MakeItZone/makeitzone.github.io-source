@@ -46,6 +46,7 @@ A collection of web sites that were useful when building the first version of th
 * [BootStrap Nav Bar tutorial](http://www.w3schools.com/bootstrap/bootstrap_navbar.asp)
 * To Do: [Transparent Responsive Navbar](http://codepen.io/Webspicer/pen/QwvRzM)
 * [offsetting HTML anchor locations so they work with Bootstrap navbars](http://stackoverflow.com/questions/10732690/offsetting-an-html-anchor-to-adjust-for-fixed-header)
+    - [better solution](http://stackoverflow.com/a/28824157)
 
 ## Images
 

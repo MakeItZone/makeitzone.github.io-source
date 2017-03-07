@@ -14,8 +14,9 @@ Stylesheets: classes.css
 <p>Easily and inexpensively repeatable in your own home.</p>
 </div>
 <p class="lead">We strive to bring you fun, approachable, and <em>take-home-able</em> small group experiences!</p>
-<p>Many students are a little fearful of building with technology. To help them a plethora of wonderful learning tools have been created. For example, Lego&reg; MindStorms&reg;. However they are often expensive, and not something that people are willing to immediately invest in. Instead of using tools, we use our experience and knowledge to quickly build students confidence and competence beyond their initial trepidation. So that they can use less expensive items such as <a href="https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard">solder-less breadboards</a>, <a href="https://www.arduino.cc">Arduino</a> and <a href="https://www.raspberrypi.org">Raspberry Pi</a>. These items are so inexpensive that students can have their own set at home and practice what they have learned. And practice is a key part of learning any new skill.</p>
-<p>We endeavor to ensure that everything we use in our classes can be easily sourced at reasonable prices, or is available locally as an inexpensive service.</p>
+<p>Many students are a little fearful of building with technology. To help them a plethora of wonderful learning tools have been created. For example, Lego&reg; MindStorms&reg;. But they can be expensive. We start with these familiar tools and use our experience and knowledge to quickly build students' confidence and competence to the point where they no longer need them. Students quickly develop the skills needed to use less expensive items such as <a href="https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard">solder-less breadboards</a>, <a href="https://www.arduino.cc">Arduino</a> and <a href="https://www.raspberrypi.org">Raspberry Pi</a>. These items are so inexpensive that students can have their own set at home and practice what they have learned. And practice is a key part of learning any new skill.</p>
+<p>We endeavor to create classes that encourage students to go beyond these pre-packaged systems and create their own inventions.</p>
+<p><a href="#adult_classes">Jump to adult classes.</a></p>
 </div>
 
 <div id="childrens_classes">
@@ -26,137 +27,14 @@ Stylesheets: classes.css
 <div class="panel panel-default green">
 <div class="panel-body">
 <h2>Children's Classes</h2>
-All of our classes are suitable for children 8+. 
+<p>At present our classes are suitable for children 8+.</p> 
+
+<p>We are working on bringing content that will be suitable for 6-8 year olds. Stay tuned!</p>
+
 </div>
 </div>
 </div> 
 </div> <!-- row -->
-<!-- Summer camps -->
-<div class="row">
-<div class="col-lg-12 col-md-12 col-sm-12">
-<div class="panel panel-default green">
-<div class="panel-body" id="vacation_camps">
-<h2>Vacation Camps</h2>
-<p><strong>Course Structure</strong></p>
-<p>A week of creativity and making. We offer a combination of structured activities and free-play to engage students and keep things fun.</p>
-<p><strong>Rates</strong></p>
-<p>Half day camps run from 1pm to 4pm, and cost $140 per student.</p>
-<p>We supply the computers, but students must have their own Minecraft account.</p>
-<p>Some courses have optional kits available for purchase. The purchase of these is not required for classes, but they do allow student to be able to take home their creations and continue exploring and developing their skills.</p>
-<div class="row">
-<div class="col-lg-4 col-md-4 col-sm-4">
-<div class="panel panel-default blue">
-<div class="ribbon-holder"> 
-<div class="ribbon">
-Enrolling<br>
-now!
-</div>       
-</div>
-<div class="panel-body" id="dwmsc">
-<img src="/images/minecraft-154749_640.png" class="pull-left img-circle pop icon" id="dwmsc_img">
-<h4>Design and Tell with Minecraft</h4>
-<p>This is a week long, half day camp- Monday to Friday, 1-4pm, at <a href="https://goo.gl/maps/Pzkfaqs5jEP2">Village Books Kids</a> in Steveston.</p>
-<p>The total cost is $140/student.</p>
-<br>
-<p>We'll explore using Minecraft as a tool to design 3D shapes and to tell stories!</p>
-<p>This camp combines and extends the content of our <a href="#dwm">Design With Minecraft</a> and <a href="#swm">Story Telling with Minecraft</a> courses.
-<p>Participants will have the opportunity to 3D print one of their creations!</p>
-<p><i>We supply the computers, but students must have their own Minecraft account.</i></p>
-<p><b>Sessions:</b></p>
-<ul>
-<li>
-<p>July 25-29</p>
-<p><A class="btn btn-success btn-sm" HREF="http://www.brownpapertickets.com/event/2571428">Register now!</A></p>
-</li>
-<li>
-<p>August 15-19</p>
-<p><A class="btn btn-success btn-sm" HREF="http://www.brownpapertickets.com/event/2571431">Register now!</A></p>
-</li>
-</ul>
-<p>NOTE: If you are uncomfortable paying online, please <a href="{filename}/pages/contact.md">contact us</a> to arrange alternative payment options.</p>
-<p>Or join our mailing list to be notified about future sessions! <button type="button" class="btn btn-primary btn-xs mailchimp">Subscribe</button></p>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-md-4 col-sm-4">
-<div class="panel panel-default blue">
-<div class="ribbon-holder"> 
-<div class="ribbon">
-Enrolling<br>
-Now!
-</div>       
-</div>
-<div class="panel-body" id="pwmsc">
-<img src="/images/minecraft-154749_640.png" class="pull-left img-circle pop icon" id="pwmsc_img">
-<h4>Program and Tell with Minecraft</h4>
-<p>This is a week long, half day camp- Monday to Friday, 1-4pm, at <a href="https://goo.gl/maps/Pzkfaqs5jEP2">Village Books Kids</a> in Steveston.</p>
-<p>The total cost is $140/student.</p>
-<br>
-<p>We'll explore controlling Minecraft with the Python programming language. Students will also create their own stories and create Minecraft themed videos.</p>
-<p>This camp combines and extends the content of our <a href="#pwm">Program With Minecraft</a> and <a href="#swm">Story Telling with Minecraft</a> courses.
-<p><strong>Note:</strong> This class requires good reading ability.</p>
-<p><i>We supply the computers, but students must have their own Minecraft account.</i></p>
-<p><b>Sessions:</b></p>
-<ul>
-<li>
-<p>July 11-15</p>
-<p><A class="btn btn-success btn-sm" HREF="http://www.brownpapertickets.com/event/2571423">Register now!</A></p>
-</li>
-<li>
-<p>August 1-5</p>
-<p><A class="btn btn-success btn-sm" HREF="http://www.brownpapertickets.com/event/2571425">Register now!</A></p>
-</li>
-<li>
-<p>August 22-26</p>
-<p><A class="btn btn-success btn-sm" HREF="http://www.brownpapertickets.com/event/2571427">Register now!</A></p>
-</li>
-</ul>
-<p>NOTE: If you are uncomfortable paying online, please <a href="{filename}/pages/contact.md">contact us</a> to arrange alternative payment options.</p>
-<p>Or join our mailing list to be notified about future sessions! <button type="button" class="btn btn-primary btn-xs mailchimp">Subscribe</button></p>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-md-4 col-sm-4">
-<div class="panel panel-default blue">
-<div class="ribbon-holder"> 
-<div class="ribbon">
-Enrolling<br>
-Now!
-</div>       
-</div>
-<div class="panel-body" id="msc">
-<img src="/images/integrated-circuit-441292_640.jpg" class="pull-left img-circle pop icon" id="msc_img">
-<h4>Maker Camp</h4>
-<p>This is a week long, half day camp- Monday to Friday, 1-4pm, at <a href="https://goo.gl/maps/Pzkfaqs5jEP2">Village Books Kids</a> in Steveston.</p>
-<p>The total cost is $140/student.</p>
-<br>
-<p>A little bit of everything! We'll have all our resources available to students and let them self-design their own projects for the week.</p>
-<p><i>We supply the computers, but students must have their own Minecraft account.</i></p>
-<p><b>Sessions:</b></p>
-<ul>
-<li>
-<p>July 18-22</p>
-<p><A class="btn btn-success btn-sm" HREF="http://www.brownpapertickets.com/event/2571432">register now!</A></p>
-</li>
-<li>
-<p>August 8-12</p>
-<p><A class="btn btn-success btn-sm" HREF="http://www.brownpapertickets.com/event/2571433">register now!</A></p>
-</li>
-<li>
-<p>August 29-September 2<p>
-<p><A class="btn btn-success btn-sm" HREF="http://www.brownpapertickets.com/event/2571434">register now!</A></p>
-</li>
-</ul>
-<p>NOTE: If you are uncomfortable paying online, please <a href="{filename}/pages/contact.md">contact us</a> to arrange alternative payment options.</p>
-<p>Or join our mailing list to be notified about future sessions! <button type="button" class="btn btn-primary btn-xs mailchimp">Subscribe</button></p>
-</div>
-</div>
-</div>
-</div> <!-- row -->
-</div> <!-- panel body -->
-</div>
-</div>
-</div>
 <div class="row">
 <div class="col-lg-12 col-md-12 col-sm-12">
 <div class="panel panel-default green">
@@ -174,7 +52,7 @@ Now!
 <div class="ribbon-holder"> 
 <div class="ribbon">
 Coming<br>
-September!
+soon!
 </div>       
 </div>
 <div class="panel-body" id="dwm">
@@ -191,7 +69,7 @@ September!
 <li>discover how 3D printers work</li>
 </ul>
 <p>Participants will have the opportunity to 3D print one of their creations!</p>
-<p><i>We supply the computers, but students must have their own Minecraft account.</i></p>
+<p><i>We supply the computers, but students must have their own (computer) Minecraft account.</i></p>
 <p>Join our mailing list to find out when classes start! <button type="button" class="btn btn-primary btn-xs mailchimp">Subscribe</button></p>
 </div>
 </div>
@@ -201,7 +79,7 @@ September!
 <div class="ribbon-holder"> 
 <div class="ribbon">
 Coming<br>
-September!
+soon!
 </div>       
 </div>
 <div class="panel-body" id="pwm">
@@ -216,7 +94,7 @@ September!
 <li>use Minecraft to control robots</li>
 </ul>
 <p>This course teaches basic programming. it also covers basic geometry, and introduces students to electronics.</p>
-<p><i>We supply the computers, but students must have their own Minecraft account.</i></p>
+<p><i>We supply the computers, but students must have their own (computer) Minecraft account.</i></p>
 <p><strong>Note:</strong>This class requires good reading ability.</p>
 <p>Join our mailing list to find out when classes start! <button type="button" class="btn btn-primary btn-xs mailchimp">Subscribe</button></p>
 </div>
@@ -227,7 +105,7 @@ September!
 <div class="ribbon-holder"> 
 <div class="ribbon">
 Coming<br>
-September!
+soon!
 </div>       
 </div>
 <div class="panel-body" id="swm">
@@ -244,7 +122,7 @@ September!
 <li>video editing</li>
 <li>green screen recording</li>
 </ul>
-<p><i>We supply the computers, but students must have their own Minecraft account.</i></p>
+<p><i>We supply the computers, but students must have their own (computer) Minecraft account.</i></p>
 <p>Join our mailing list to find out when classes start! <button type="button" class="btn btn-primary btn-xs mailchimp">Subscribe</button></p>
 </div>
 </div>
@@ -256,7 +134,7 @@ September!
 <div class="ribbon-holder"> 
 <div class="ribbon">
 Coming<br>
-September!
+soon!
 </div>       
 </div>
 <div class="panel-body" id="robdes">
@@ -282,7 +160,7 @@ The adventurous can add an electric motor and battery to make a self contained m
 <div class="ribbon-holder"> 
 <div class="ribbon">
 Coming<br>
-September!
+soon!
 </div>       
 </div>
 <div class="panel-body" id="ctw">
@@ -325,6 +203,88 @@ September!
 </div> <!-- panel body -->
 </div>
 </div>
+</div> <!-- regular classes -->
+<!-- Summer camps -->
+<div class="row">
+<div class="col-lg-12 col-md-12 col-sm-12">
+<div class="panel panel-default green">
+<div class="panel-body" id="vacation_camps">
+<h2>Vacation Camps</h2>
+<p><strong>Course Structure</strong></p>
+<p>A week of creativity and making. We offer a combination of structured activities and free-play to engage students and keep things fun.</p>
+<p><strong>Rates</strong></p>
+<p>These are half-day camps and cost $150 per student.</p>
+<p>We supply the computers! But students must have their own <i>computer</i> Minecraft account for the Minecraft classes (this is not the phone/tablet/XBox/PS4 version!)</p>
+<p>Some courses have optional kits available for purchase. The purchase of these is not required for classes, but they do allow student to be able to take home their creations and continue exploring and developing their skills.</p>
+<div class="row">
+<div class="col-lg-4 col-md-4 col-sm-4">
+<div class="panel panel-default blue">
+<div class="ribbon-holder"> 
+<div class="ribbon">
+Coming<br>
+soon!
+</div>       
+</div>
+<div class="panel-body" id="dwmsc">
+<img src="/images/minecraft-154749_640.png" class="pull-left img-circle pop icon" id="dwmsc_img">
+<h4>Design and Tell with Minecraft</h4>
+<p>This is a week long half day camp.</p>
+<p>The total cost is $150/student.</p>
+<br>
+<p>We'll explore using Minecraft as a tool to design 3D shapes and to tell stories!</p>
+<p>This camp combines and extends the content of our <a href="#dwm">Design With Minecraft</a> and <a href="#swm">Story Telling with Minecraft</a> courses.
+<p>Participants will have the opportunity to 3D print one of their creations!</p>
+<p><i>We supply the computers, but students must have their own (computer) Minecraft account.</i></p>
+<p>Join our mailing list to be notified about future sessions! <button type="button" class="btn btn-primary btn-xs mailchimp">Subscribe</button></p>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-4 col-sm-4">
+<div class="panel panel-default blue">
+<div class="ribbon-holder"> 
+<div class="ribbon">
+Coming<br>
+soon!
+</div>       
+</div>
+<div class="panel-body" id="pwmsc">
+<img src="/images/minecraft-154749_640.png" class="pull-left img-circle pop icon" id="pwmsc_img">
+<h4>Program and Tell with Minecraft</h4>
+<p>This is a week long half day camp.</p>
+<p>The total cost is $150/student.</p>
+<br>
+<p>We'll explore controlling Minecraft with the Python programming language. Students will also create their own stories and create Minecraft themed videos.</p>
+<p>This camp combines and extends the content of our <a href="#pwm">Program With Minecraft</a> and <a href="#swm">Story Telling with Minecraft</a> courses.
+<p><strong>Note:</strong> This class requires good reading ability.</p>
+<p><i>We supply the computers, but students must have their own (computer) Minecraft account.</i></p>
+<p>Join our mailing list to be notified about future sessions! <button type="button" class="btn btn-primary btn-xs mailchimp">Subscribe</button></p>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-4 col-sm-4">
+<div class="panel panel-default blue">
+<div class="ribbon-holder"> 
+<div class="ribbon">
+Coming<br>
+soon!
+</div>       
+</div>
+<div class="panel-body" id="msc">
+<img src="/images/integrated-circuit-441292_640.jpg" class="pull-left img-circle pop icon" id="msc_img">
+<h4>Maker Camp</h4>
+<p>This is a week long half day camp.</p>
+<p>The total cost is $150/student.</p>
+<br>
+<p>A little bit of everything! We'll have all our resources available to students and let them self-design their own projects for the week.</p>
+<p><i>We supply the computers, but students must have their own (computer) Minecraft account.</i></p>
+<p>Join our mailing list to be notified about future sessions! <button type="button" class="btn btn-primary btn-xs mailchimp">Subscribe</button></p>
+</div>
+</div>
+</div>
+</div> <!-- row -->
+</div> <!-- panel body -->
+</div>
+</div>
 </div>
 </div> <!-- children's content -->
 </div> <!-- children's bg -->
@@ -343,16 +303,22 @@ September!
 <p>Small group sessions tailored to the needs and goals of the students. Sessions are typically one hour per week.</p>
 <p>Individual tuition is also available on request.</p>
 <p><strong>Rates</strong></p>
-<p>Small group sessions are charged at $25 per session. Individual tutoring is typically $50 per hour.</p>
+<p>Unless otherwise noted, small group sessions are charged at $25 per session. Individual tutoring is typically $50 per hour.</p>
 <br>
 <p>Get informed about upcoming classes by joining our mail list: <button type="button" class="btn btn-primary btn-xs mailchimp">Subscribe</button></p>
 <div class="row">
 <div class="col-lg-6 col-md-6 col-sm-6">
 <div class="panel panel-default green">
+<div class="ribbon-holder"> 
+<div class="ribbon">
+Coming<br>
+May!
+</div>       
+</div>
 <div class="panel-body" id="acad">
 <img src="/images/123D_Design.png" class="pull-left img-circle pop icon" id="acad_img">
 <h4>Intro to the Autodesk 123D Suite</h4>
-<p>Need a replacement part for around the house? Or have an idea for a new mechanism?  Come and learn the basics of Computer Aided Design (CAD) for 3D printed parts and start making your ideas real!  We will explore some of AutoDesk's free 123D programs.  Participants must attend all five sessions. Join Instructor Julian Rendell on Thursdays from 7-8pm in the Launchpad.  Laptops will be available.</p>
+<p>Need a replacement part for around the house? Or have an idea for a new mechanism?  Come and learn the basics of Computer Aided Design (CAD) for 3D printed parts and start making your ideas real!  We will explore some of AutoDesk's free 123D programs. Computers will be provided in the classes, but you will need your own computer to practice at home.</p>
 <p>Topics covered:</p>
 <ul>
 <li>Creating objects in 123D Design</li>
@@ -361,10 +327,10 @@ September!
 </ul>
 <strong>Up Coming Sessions</strong>
 <ul>
-<li>Fall Session TBD</li>
+<li>May</li>
 <ul>
 <li><em>Free!</em></li>
-<li>Presented in association with the Richmond Public Library.</li>
+<li>Presented in association with the Courtenay Public Library.</li>
 </ul>
 </div>
 </div>

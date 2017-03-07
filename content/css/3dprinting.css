@@ -1,0 +1,60 @@
+.loaded .ytplayer-container {
+  display: block;
+}
+
+.loaded .placeholder-image {
+  opacity: 0;
+}
+
+.ytplayer-container {
+  bottom: 0;
+  height: 100%;
+  left: 0;
+  min-width: 100%;
+  overflow: hidden;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.placeholder-image {
+  height: 100%;
+  left: 0;
+  min-height: 100%;
+  min-width: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 1;
+}
+
+#bodycontainer {
+  background-image: url('/images/taz4.jpg');
+  background-size: cover;
+}
+
+/* The shield stops clicks from reaching the background video player. */
+/* Set the z-index behind the video layer to disable this. */
+.ytplayer-shield {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: -5;
+}
+
+.ytplayer-player {
+  position: absolute;
+}
+
+.paragraph {
+  border-radius: 6px;
+  background: rgba(255, 255, 255, .9);
+  padding: 15px 30px 15px 30px;
+  margin: 30px auto;
+}
+
+.pop {
+  visibility: hidden;
+}

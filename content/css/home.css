@@ -1,6 +1,6 @@
 .carousel-image {
     background-size: cover;
-    height: 80vh;
+    height: 60vh;
 }
 
 .jumbotron {
@@ -15,6 +15,6 @@
 }
 
 .jumbotron p {
-	font-size: 4vh;
+	font-size: 3vh;
 	font-weight: 400;
 }

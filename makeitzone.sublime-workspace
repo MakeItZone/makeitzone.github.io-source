@@ -15,10 +15,18 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 227.0,
-		"last_filter": "insta",
+		"height": 147.0,
+		"last_filter": "instal",
 		"selected_items":
 		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"lorem",
+				"Add some Lorem Gibson"
+			],
 			[
 				"insta",
 				"Package Control: Install Package"
@@ -47,6 +55,7 @@
 		"height": 126.0,
 		"history":
 		[
+			"lor",
 			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 		]
 	},
@@ -61,16 +70,73 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/julian/virtualenvs/makeitzone.github.io-source"
+		"/Users/julian/virtualenvs/makeitzone.github.io-source",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/output/SVGnest",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/src",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/src/pelican-themes",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/src/pelican-themes/pelican-bootstrap3",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/src/pelican-themes/pelican-bootstrap3/templates",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/src/pelican-themes/pelican-bootstrap3/templates/includes",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/thirdparty",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/vision-animation"
 	],
 	"file_history":
 	[
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/pages/tools.md",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/.travis.yml",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/Makefile",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/develop_server.sh",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/deploy.sh",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/vision-animation/vision-animation-export/vision-animation-export.html",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/css/vision.css",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/pages/vision.md",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/output/vision-animation/vision-animation-export.html",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/pages/membership.md",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/pages/services.md",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/pelicanconf.py",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/pages/3dprinting.md",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/pages/lasercutting.md",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/pages/home.md",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/pages/classes.md",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/js/lasercutting.js",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/css/lasercutting.css",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/css/home.css",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/css/services.css",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/js/services.js",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/pages/contact.md",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/Behind the Scenes/Website Updates- the getting serious edition.md",
 		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/Behind the Scenes/Website Dev Environment Setup.md",
-		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/Behind the Scenes/New Years Day 2017 Updates.md",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/extras/custom.css",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/src/pelican-themes/pelican-bootstrap3/templates/base.html",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/3D Conversion for Minecraft.md",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/Minecraft/3D Conversion for Minecraft.md",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/Behind the Scenes/Notes on This Website.md",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/src/pelican-themes/pelican-bootstrap3/templates/includes/footer.html",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/src/pelican-plugins/plantuml/plantuml_md.py",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/src/pelican-themes/pelican-bootstrap3/templates/includes/sidebar-recentposts.html",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/src/pelican-themes/pelican-bootstrap3/templates/includes/series.html",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/output/website-updates-the-getting-serious-edition.html",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/src/pelican-themes/pelican-bootstrap3/templates/includes/sidebar-series.html",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/src/pelican-plugins/pelican_git/plugin.py",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/src/pelican-plugins/pelican_git/templates/git.jinja.html",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/publishconf.py",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/Behind the Scenes/JS and CSS Notes.md",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/src/pelican-themes/pelican-bootstrap3/templates/includes/links.html",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/src/pelican-themes/pelican-bootstrap3/static/css/bootstrap.superhero.min.css",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/src/pelican-themes/pelican-bootstrap3/templates/article.html",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/src/pelican-themes/pelican-bootstrap3/templates/page.html",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/Minecraft and 3D Scanning.md",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/src/pelican-themes/pelican-bootstrap3/templates/includes/sidebar.html",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/plantuml",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/Behind the Scenes/Setting up a Discourse Forum.md",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/plantuml.sh",
 		"/Users/julian/virtualenvs/makeitzone.github.io-source/setup.sh",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/src/pelican-themes/pelican-bootstrap3/templates/includes/sidebar-pages.html",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/src/pelican-plugins/pelicanfly/pelicanfly/static/fonts/fontawesome-webfont.svg",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/Behind the Scenes/New Years Day 2017 Updates.md",
 		"/Users/julian/virtualenvs/makeitzone.github.io-source/.gitignore",
 		"/Users/julian/virtualenvs/makeitzone/content/Behind the Scenes/Website Dev Environment Setup.md",
-		"/Users/julian/virtualenvs/makeitzone.github.io-source/.travis.yml",
 		"/Users/julian/virtualenvs/makeitzone/content/Behind the Scenes/Notes on This Website.md",
 		"/Users/julian/virtualenvs/makeitzone/content/Behind the Scenes/New Years Day 2017 Updates.md",
 		"/Users/julian/virtualenvs/makeitzone/content/Behind the Scenes/website setup and deployment.md",
@@ -96,13 +162,17 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
+			"/Users/julian/virtualenvs/makeitzone.github.io-source/content",
+			"/Users/julian/virtualenvs/makeitzone.github.io-source/src/pelican-plugins/plantuml",
+			"/Users/julian/virtualenvs/makeitzone.github.io-source/src/pelican-themes/pelican-bootstrap3",
+			""
 		]
 	},
 	"find_state":
@@ -110,6 +180,24 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"{filename}",
+			"template",
+			"OUTPUT",
+			"Enrolling<br>\nnow!",
+			"banner",
+			"archives",
+			"index",
+			"Minecraft and 3D Scanning.md",
+			"banner",
+			"diagram description",
+			"hash",
+			"TOC",
+			"twitter",
+			"paper",
+			"BOOT",
+			"<<<<<",
+			"<<<",
+			"<<<<",
 			"travis",
 			"markup",
 			" ",
@@ -126,6 +214,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"Coming<br>\nsoon!"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -147,7 +236,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
@@ -172,6 +261,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
@@ -180,7 +273,7 @@
 	"project": "makeitzone.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 86.0
 	},
 	"save_all_on_build": true,
 	"select_file":

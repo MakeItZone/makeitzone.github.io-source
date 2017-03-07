@@ -13,13 +13,13 @@ Stylesheets: contact.css
 <div class="panel-body">
 <div class="pop"><h2><i class="fa fa-comments fa-5x"></i></h2></div>
 <h2>Real Time Messaging</H2>
-You can reach us on these real-time chat networks:
+You can contact us via this webpage:
 <ul class="list-group" id="links">
     <li class="list-group-item">
-    	<a href="#" onclick="Smooch.open();"><i class="fa fa-comment fa-lg"></i> Smooch</a>
+    	<a href="#" onclick="Smooch.open();"><i class="fa fa-comment fa-lg"></i> Help me now</a>
     </li>
     <li class="list-group-item"><i class="fa fa-comment fa-lg"></i>
-    	Facebook Messenger: click on the 'Messages' tab on the Facebook plugin over there on the right.
+    	Or if you prefer Facebook Messenger: click on the 'Messages' tab on the Facebook section over there on the right.
     </li>
 </ul>
 </div>
@@ -32,6 +32,7 @@ You can reach us on these real-time chat networks:
 <h2>Phone</H2>
 <p>Call us at:</p>
 <p><a href="tel:+016042836299"><strong>604-AT-DNA-ZZ</strong></a> (<a href="tel:+016042836299"><strong>604-283-6299</strong></a>).</p>
+<p><i>Note: this is an internet telephone service that doesn't have Comox valley numbers yet. I'm looking for a replacement...</i></p> 
 </div>
 </div>
 </div>

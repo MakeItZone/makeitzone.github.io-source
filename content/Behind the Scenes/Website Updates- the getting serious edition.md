@@ -79,9 +79,49 @@ This is very easy if you don't need to keep the repository history. Just create 
 
 
 ### Configuring Travis ###
+[Travis] does things right, and keeps you honest.
 
-[Packages available to build containers](https://github.com/travis-ci/apt-package-whitelist)
+Every time [travis] builds your website it creates a brand new, clean, virtual computer/container with just the basic OS and some typical development packages. You then have to add any extra software your build needs, then get the source code and build it.
 
+It is a little slower, but it stops the "builds on my computer" arguments before they can get started.
+
+[Travis] offers a few different OSs and versions to choose from, including Debian and OS X.
+
+To deploy this website I'm using an Ubuntu based setup.
+
+A couple of articles worth reading about the flavours of Ubuntu available:
+
+* [Container-based Ubuntu Trusty in Public Beta](https://blog.travis-ci.com/2016-11-08-trusty-container-public-beta)
+* [The Trusty beta Build Environment](https://docs.travis-ci.com/user/trusty-ci-environment)
+
+The above will give you enough information to set the `sudo` and `dist` settings in the `.travis.yml` file.
+
+Next you want to add the extra packages your application needs.
+
+There are lists of packages available for the Ubuntu build containers on [github](https://github.com/travis-ci/apt-package-whitelist), and [instructions](https://docs.travis-ci.com/user/installing-dependencies) for how to install them.
+
+Now would be a good time to review how to [customize the build](https://docs.travis-ci.com/user/customizing-the-build). 
+
+The `before_install` step can be used to install any other applications your build needs. 
+
+The `install` step is where you install any language libraries your application uses.
+
+In this case I used the `before_install` to download [plantuml], and `install` calls a script that I created to install all the `Python` packages required.
+
+Getting the build to work is pretty straight forward: add the next section/stop to `.travis.yml`, watch [travis] execute it, fix issues, carry on.
+
+Once it's building correctly you need to have [travis] push the generated website files to the publishing repository on [github].
+
+To do that you need to [generate an access token for github](https://help.github.com/articles/creating-an-access-token-for-command-line-use/) and use the `travis` command to add an encrypted version of the token to your `.travis.yml` file. 
+
+I found [Zonca's][zonca] guide to cover this clearly. While you're there, copy his `deploy.sh` script.
+
+Everything should now be good to go: you check in a new file and magically the website gets regenerated and published... or it will after you debug everything.
+
+Here's what my `.travis.yml` ended up looking like:
+[git:repo=MakeItZone/makeitzone.github.io-source,file=.travis.yml,type=yaml,branch=master,hash=0674082]
+
+You can see the deployment and other scripts on [github](https://github.com/MakeItZone/makeitzone.github.io-source).
 
 ### Final Clean Up ###
 To save future confusion, delete the `source` branch from the repo that holds the published static files:
@@ -98,3 +138,4 @@ git push origin :source
 [zonca]: https://zonca.github.io/2013/09/automatically-build-pelican-and-publish-to-github-pages.html
 [leplatre]: http://blog.mathieu-leplatre.info/publish-your-pelican-blog-on-github-pages-via-travis-ci.html
 [siongui]: https://siongui.github.io/2016/01/05/deploy-website-by-pelican-travis-ci-github-pages/
+[plantuml]: http://plantuml.com

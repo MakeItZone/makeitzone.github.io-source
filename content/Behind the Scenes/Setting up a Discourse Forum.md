@@ -33,7 +33,7 @@ Discourse it is.
 * [Setup Discourse on Linode][onlinode]
 * [Installing Discourse on Digital Ocean][ondo]
 
-#### SMTP Service ###
+### SMTP Service ###
 The [Digital Ocean setup guide][ondo] suggests [SparkPost]. Free for <100k email messages. Done!
 
 [SparkPost] doesn't have explicit instructions for [Hover], the DNS provider I use, but it wasn't too difficult. 
@@ -93,6 +93,10 @@ Extras added:
 - [reply by email](https://meta.discourse.org/t/set-up-reply-via-email-support/14003) 
 - [autoplay first video](https://meta.discourse.org/t/media-autoplay-plugin-discourse-plugin-autoplay/40595)
 - [DropBox Backup](https://meta.discourse.org/t/discourse-backups-to-dropbox/51176)
+- Enabled tagging plugin (built in)
+- Enabled Google Tag Manager/Google analytics (to see popular posts and flows)
+
+
 
 ### Security and System Hardening ###
 
@@ -112,11 +116,15 @@ Once installed by `apt-get install <Name of MTA>` you may need to `dpkg-reconfig
 
 Then configure all mail delivered to the `root` user are forwarded by following the notes [here](http://serverfault.com/questions/243669/procedure-to-forward-root-email-to-external-email).
 
-And then test with: ``` mail -v root Subject: Test forwarding
+And then test with: 
+
+```text
+mail -v root Subject: Test forwarding
 
 Body of the email message. Bon Voyage!
 
-. ```
+.
+```
 
 The '`.`' tells the `mail` command to send the message. The `-v` will have mail spit out all the details of the `SMTP` actions as it tries to send the message. You should see a successful log and receive the message.
 
@@ -151,7 +159,7 @@ References regarding this:
 
 For my setup I found I had to edit/create `/edit/docker/daemon.json` and add:
 
-```
+```text
 {
     "iptables": false
 }
@@ -163,13 +171,13 @@ Then `UFW` needed some tweaking (thanks to [Running Docker behind the ufw firewa
 
 Edit `/etc/default/ufw` and set `DEFAULT_FORWARD_POLICY`:
 
-```
+```bash
 DEFAULT_FORWARD_POLICY="ACCEPT"
 ```
 
 Then edit `/etc/ufw/before.rules`. Just before `*filter` add:
 
-```
+```ufw
 *nat
 :POSTROUTING ACCEPT [0:0]
 -A POSTROUTING ! -o docker0 -s 172.17.0.0/16 -j MASQUERADE
@@ -178,7 +186,7 @@ COMMIT
 
 And allow incoming `SSH`, `HTTP`, and `HTTPS` traffic :
 
-```
+```bash
 sudo ufw allow 22/tcp
 sudo ufw allow 80/tcp
 Sudo uff allow 443/tcp
@@ -190,7 +198,7 @@ Verify that the expected services are running and accessible.
 
 Finally, verify that nothing extra is accessible, e.g. run `nmap` from a different computer:
 
-```
+```bash
 nmap -A -T4 <url of your server>
 ```
 

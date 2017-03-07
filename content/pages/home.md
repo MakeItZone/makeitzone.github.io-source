@@ -3,11 +3,14 @@ URL: index.html
 save_as: index.html
 template: page
 hidebreadcrumbs: true
+hidesidebar: true
 hidetitle: true
 JavaScripts: home.js
 Stylesheets: home.css
 
-<div id="intro-carousel" class="carousel slide" data-ride="carousel" data-interval="15000" data-pause="hover" style="min-height: 80vh;">
+![Make It Zone Banner]({filename}/images/BurstLogo.png)
+
+<div id="intro-carousel" class="carousel slide" data-ride="carousel" data-interval="15000" data-pause="hover" style="min-height: 60vh;">
 <!-- Indicators -->
 <ol class="carousel-indicators">
 <li data-target="#intro-carousel" data-slide-to="0" class="active"></li>
@@ -16,10 +19,11 @@ Stylesheets: home.css
 <li data-target="#intro-carousel" data-slide-to="3"></li>
 <li data-target="#intro-carousel" data-slide-to="4"></li>
 <li data-target="#intro-carousel" data-slide-to="5"></li>
+<li data-target="#intro-carousel" data-slide-to="6"></li>
 </ol>
 <!-- Wrapper for slides -->
 <div class="carousel-inner" role="listbox">
-<div class="item active" style="background-image: url(/images/exotic-purple-distortions-part-2-3.png); background-repeat:both;  height: 80vh;">
+<div class="item active" style="background-image: url(/images/exotic-purple-distortions-part-2-3.png); background-repeat:both;  height: 60vh;">
 <div class="jumbotron">
 <h1>Welcome to MakeItZone</h1>
 <p>The power of Ironman's workshop is here. <strong>Now.</strong></p>
@@ -42,7 +46,7 @@ Stylesheets: home.css
 </div>
 <div class="item carousel-image" style="background-image: url(/images/hackerclass.jpg);">
 <div class="jumbotron">
-<h1>STEAM Courses</h1>
+<h1>Hands On!</h1>
 <p>Our courses go beyond the screen- robots, electronics, sensors and more!</p>
 <p><a class="btn btn-primary btn-lg pull-right" href="/classes.html" role="button">Learn more</a></p>
 </div>
@@ -61,9 +65,19 @@ Stylesheets: home.css
 <p><i class="fa fa-camera-retro fa-lg"></i><span class="icon-label">Cindy Ho, RPL LaunchPad</span></p>
 </div>
 </div>
+<div class="item carousel-image" style="background-image: url(images/Speedy300.jpg);">
+<div class="jumbotron">
+<h1>Laser Cutting</h1>
+<p>We have a Trotec Speed 300 ready to engrave and cut your designs on a variety of objects and materials.</p>
+<p><a class="btn btn-primary btn-lg pull-right" href="/services.html" role="button">Learn more</a></p>
+</div>
+<div class="carousel-caption">
+<p><i class="fa fa-camera-retro fa-lg"></i><a href="https://flic.kr/p/otxiuH" class="icon-label">Emmanuelle Roux</a></p>
+</div>
+</div>
 <div class="item carousel-image" style="background-image: url(images/taz4.jpg);">
 <div class="jumbotron">
-<h1>3D Printing Services</h1>
+<h1>3D Printing</h1>
 <p>We have two large-format printers that can print in a variety of materials and colors. They're ready to print your designs.</p>
 <p>Need help with a design, technical support, or other questions? We can help with that too.<a class="btn btn-primary btn-lg pull-right" href="/services.html" role="button">Learn more</a></p>
 </div>
@@ -73,8 +87,8 @@ Stylesheets: home.css
 </div>
 <div class="item carousel-image" style="background-image: url(images/makerspace.jpg);">
 <div class="jumbotron">
-<h1>A Makerspace for Richmond</h1>
-<p>We're starting small, but have big dreams: to create a place to meet, learn, have fun, and create, with tools and support at the ready.</p>
+<h1>A Makerspace for the Comox Valley</h1>
+<p>We have big dreams: to create a place to meet, learn, have fun, and create, with tools and support at the ready.</p>
 <p>Interested? <a href="/vision.html">Click here to learn more.</a><a class="btn btn-primary btn-lg pull-right" href="/vision.html" role="button">Learn more</a></p>
 </div>
 <div class="carousel-caption">

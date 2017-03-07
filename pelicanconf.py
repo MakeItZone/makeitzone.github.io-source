@@ -25,7 +25,9 @@ AUTHOR_FEED_RSS = None
 # tuples of ('slug', 'font-awesome-icon') in order of appearance
 NAVBARPAGES = ( 
                 ('classes', 'graduation-cap'),
-                ('services', 'cogs'),                    
+                ('tools', 'wrench'),
+                ('services', 'cogs'),
+                ('membership', 'user'),                    
                 ('contact', 'phone'),
               )
 NAVBARMENUPAGES = (
@@ -39,11 +41,14 @@ NAVBARMENUPAGES = (
 # SIDEBARMENUPAGES = NAVBARMENUPAGES
 
 LINKS = ( 
+          ('Our Forums', 'https://forum.makeit.zone', 'comment-o'),
+          ('Our Slack', 'https://makeitzone.slack.com', 'slack'),
           ('patreon', 'https://www.patreon.com/MakeItZone', 'thumbs-o-up'),
           ('linkedin', 'https://www.linkedin.com/in/julianrendell'),
-          ("3DHubs", 'https://www.3dhubs.com/vancouver/hubs/makefamilyfun', 'print'),
+          ("3DHubs", 'https://www.3dhubs.com/service/makeitzone', 'print'),
           ("adafruit", "http://adafruit.com", "asterisk"),
           ("sparkfun", "https://www.sparkfun.com", "fire"),
+          ("MadeInYQQ", "http://madeinyqq.ca", "wrench"),
         )
 
 # Social widget
@@ -72,7 +77,7 @@ PLUGINS = ["related_posts",
            "figure-ref", 
            "gallery", 
            "image_process",
-           "optimize_images", 
+#           "optimize_images", 
 #           "pdf-img",
 #           "pdf", # incompatible with python 3
 #           "pelican_vimeo", 
@@ -88,13 +93,15 @@ PLUGINS = ["related_posts",
            'pelican-ipynb.markup',
            'liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.youtube', 'liquid_tags.vimeo',
-           'liquid_tags.include_code'
+           'liquid_tags.include_code',
+           'pelican_git',
 
 ]
 
 ACE_EDITOR_PLUGIN = {
   'ACE_EDITOR_THEME': 'monokai',
-  
+  'ACE_EDITOR_READONLY': False,
+
 }
 
 # See the docs! You've got to manually add the default extensions if you set this
@@ -108,7 +115,7 @@ MARKDOWN = {
         'markdown.extensions.extra': {},
         'markdown.extensions.meta': {},
         'markdown.extensions.toc' : {}, 
-        'plantuml.plantuml_md': {},
+        'plantuml.plantuml_md': {'classes': 'center-block'},
     },
     'output_format': 'html5',
 }
@@ -120,13 +127,24 @@ INDEX_SAVE_AS = 'blog_index.html'
 
 THEME = 'src/pelican-themes/pelican-bootstrap3'
 JINJA_ENVIRONMENT = { 'extensions': ['jinja2.ext.i18n']}
-#BOOTSTRAP_THEME = 'paper'
+BOOTSTRAP_THEME = 'readable'
+SITELOGO = 'images/Sam head.png'
+SITELOGO_SIZE = 48
+HIDE_SITENAME = False
+ARCHIVES_URL = 'blog_index.html'
+RESPONSIVE_IMAGES = True
+
+# Puts it on the blog index only, or all pages; not a specific page(s)
+# And I've created a static page as index.html; the generated index now goes to "blog_index.html"
+# BANNER='images/Burst Logo.png'
+# BANNER_ALL_PAGES = False
+
 # TO DO - CREATE FAVICON!!!
 # FAVICON = "images/favicon.png"
 
 
 # tell pelican where your custom.css file is in your content folder
-STATIC_PATHS = ['images', 'extras/custom.css', 'extras/CNAME']
+STATIC_PATHS = ['images', 'turtleblocksjs', 'extras/custom.css', 'extras/CNAME']
 
 # tell pelican where it should copy that file to in your output folder
 EXTRA_PATH_METADATA = {
@@ -154,7 +172,7 @@ SHOW_DATE_MODIFIED = True
 BOOTSTRAP_FLUID = True
 DISPLAY_BREADCRUMBS = True
 DISPLAY_CATEGORY_IN_BREADCRUMBS = True
-BOOTSTRAP_NAVBAR_INVERSE = True
+BOOTSTRAP_NAVBAR_INVERSE = False
 DISPLAY_ARTICLE_INFO_ON_INDEX = True
 DISPLAY_TAGS_ON_SIDEBAR = False
 DISPLAY_TAGS_INLINE = True
@@ -166,7 +184,7 @@ RECENT_POST_COUNT = 5
 TWITTER_CARDS = True
 USE_OPEN_GRAPH = True
 TWITTER_USERNAME = "_MakeItZone_"
-TWITTER_WIDGET_ID = 698784884727283712
+# TWITTER_WIDGET_ID = 698784884727283712
 ADDTHIS_PROFILE = "ra-56f06bf667497568"
 SHARIFF = False
 CC_LICENSE = "CC-BY-NC-SA"

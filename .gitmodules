@@ -7,3 +7,9 @@
 [submodule "src/pelican-plugins"]
 	path = src/pelican-plugins
 	url = https://github.com/MakeItZone/pelican-plugins.git
+[submodule "thirdparty/SVGnest"]
+	path = thirdparty/SVGnest
+	url = https://github.com/MakeItZone/SVGnest.git
+[submodule "thirdparty/turtleblocksjs"]
+	path = thirdparty/turtleblocksjs
+	url = https://github.com/MakeItZone/turtleblocksjs.git
