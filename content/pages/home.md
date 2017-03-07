@@ -25,9 +25,9 @@ Stylesheets: home.css
 <div class="carousel-inner" role="listbox">
 <div class="item active" style="background-image: url(/images/exotic-purple-distortions-part-2-3.png); background-repeat:both;  height: 60vh;">
 <div class="jumbotron">
-<h1>Welcome to MakeItZone</h1>
+<h3>Welcome to Make It Zone</h3>
 <p>The power of Ironman's workshop is here. <strong>Now.</strong></p>
-<p>Let us show you how to use it.<a class="btn btn-primary btn-lg pull-right" href="/classes.html" role="button">Learn more</a></p>
+<p>Let us show you how to use it.<a class="btn btn-primary btn-xs pull-right" href="/classes.html" role="button">Learn more</a></p>
 </div>
 <div class="carousel-caption">
 <p><i class="fa fa-camera-retro fa-lg"></i><a href="http://backgrounds.mysitemyway.com" class="icon-label">backgrounds.mysitemyway.com</a></p>
@@ -36,9 +36,9 @@ Stylesheets: home.css
 </div>
 <div class="item carousel-image" style="background-image: url(/images/minecraft_scene.jpg);">
 <div class="jumbotron">
-<h1>STEAM Courses</h1>
+<h3>STEAM<br>Courses</h3>
 <p>We use fun activities, like playing Minecraft, and add design, programming, and engineering.</p>
-<p>Our courses cover STEM (Science, Technology, Engineering and Math) topics and add Art: we're <strong>STEAM</strong> powered!<a class="btn btn-primary btn-lg pull-right" href="/classes.html" role="button">Learn more</a></p>
+<p>Our courses cover STEM (Science, Technology, Engineering and Math) topics and add Art: we're <strong>STEAM</strong> powered!<a class="btn btn-primary btn-xs pull-right" href="/classes.html" role="button">Learn more</a></p>
 </div>
 <div class="carousel-caption">
 <p><i class="fa fa-camera-retro fa-lg"></i><a href="https://flic.kr/p/bszMwD" class="icon-label">Robson: Mace- Medieval City</a></p>
@@ -46,9 +46,9 @@ Stylesheets: home.css
 </div>
 <div class="item carousel-image" style="background-image: url(/images/hackerclass.jpg);">
 <div class="jumbotron">
-<h1>Hands On!</h1>
+<h3>Hands On!</h3>
 <p>Our courses go beyond the screen- robots, electronics, sensors and more!</p>
-<p><a class="btn btn-primary btn-lg pull-right" href="/classes.html" role="button">Learn more</a></p>
+<p><a class="btn btn-primary btn-xs pull-right" href="/classes.html" role="button">Learn more</a></p>
 </div>
 <div class="carousel-caption">
 <p><i class="fa fa-camera-retro fa-lg"></i><a href="https://flic.kr/p/dwYcqT" class="icon-label">Mitch Altman, VoidWarranties Workshop for Kids, Antwerp, Belgium, Nov-2012</a></p>
@@ -56,10 +56,10 @@ Stylesheets: home.css
 </div>
 <div class="item carousel-image" style="background-image: url(images/julian_launchpad.jpg);">
 <div class="jumbotron">
-<h1>Adult Courses</h1>
+<h3>Adult<br>Courses</h3>
 <p>We have courses for adults too!</p>
 <p>Come learn about CAD and 3D printing, and discover how to take your ideas from concept to physical object!</p>
-<p><a class="btn btn-primary btn-lg pull-right" href="/classes.html#adult_courses" role="button">Learn more</a></p>
+<p><a class="btn btn-primary btn-xs pull-right" href="/classes.html#adult_courses" role="button">Learn more</a></p>
 </div>
 <div class="carousel-caption">
 <p><i class="fa fa-camera-retro fa-lg"></i><span class="icon-label">Cindy Ho, RPL LaunchPad</span></p>
@@ -67,9 +67,9 @@ Stylesheets: home.css
 </div>
 <div class="item carousel-image" style="background-image: url(images/Speedy300.jpg);">
 <div class="jumbotron">
-<h1>Laser Cutting</h1>
+<h3>Laser<br>Cutting</h3>
 <p>We have a Trotec Speed 300 ready to engrave and cut your designs on a variety of objects and materials.</p>
-<p><a class="btn btn-primary btn-lg pull-right" href="/services.html" role="button">Learn more</a></p>
+<p><a class="btn btn-primary btn-xs pull-right" href="/services.html" role="button">Learn more</a></p>
 </div>
 <div class="carousel-caption">
 <p><i class="fa fa-camera-retro fa-lg"></i><a href="https://flic.kr/p/otxiuH" class="icon-label">Emmanuelle Roux</a></p>
@@ -77,9 +77,9 @@ Stylesheets: home.css
 </div>
 <div class="item carousel-image" style="background-image: url(images/taz4.jpg);">
 <div class="jumbotron">
-<h1>3D Printing</h1>
+<h3>3D Printing</h3>
 <p>We have two large-format printers that can print in a variety of materials and colors. They're ready to print your designs.</p>
-<p>Need help with a design, technical support, or other questions? We can help with that too.<a class="btn btn-primary btn-lg pull-right" href="/services.html" role="button">Learn more</a></p>
+<p>Need help with a design, technical support, or other questions? We can help with that too.<a class="btn btn-primary btn-xs pull-right" href="/services.html" role="button">Learn more</a></p>
 </div>
 <div class="carousel-caption">
 <p><i class="fa fa-camera-retro fa-lg"></i><a href="https://flic.kr/p/nDW6QN" class="icon-label">SparkFun</a></p>
@@ -87,9 +87,9 @@ Stylesheets: home.css
 </div>
 <div class="item carousel-image" style="background-image: url(images/makerspace.jpg);">
 <div class="jumbotron">
-<h1>A Makerspace for the Comox Valley</h1>
+<h3>A<br>Makerspace</h3>
 <p>We have big dreams: to create a place to meet, learn, have fun, and create, with tools and support at the ready.</p>
-<p>Interested? <a href="/vision.html">Click here to learn more.</a><a class="btn btn-primary btn-lg pull-right" href="/vision.html" role="button">Learn more</a></p>
+<a class="btn btn-primary btn-xs pull-right" href="/vision.html" role="button">Learn more</a></p>
 </div>
 <div class="carousel-caption">
 <p><i class="fa fa-camera-retro fa-lg"></i><a href="https://flic.kr/p/fmWtdi" class="icon-label">Laura James</a></p>
