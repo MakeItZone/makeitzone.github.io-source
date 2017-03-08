@@ -5,7 +5,6 @@ hidebreadcrumbs: true
 hidetitle: true
 Stylesheets: tools.css
 
-
 ## We aim to meet the needs of a growing creative community
 
 <div markdown="1" class="lead">

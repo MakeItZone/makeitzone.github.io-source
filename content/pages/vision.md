@@ -5,7 +5,7 @@ hidebreadcrumbs: true
 hidetitle: true
 Stylesheets: vision.css
 
-<div style="width:100%; height: 400px;">
+<div style="width:100%; height: 50vh;">
 <div id="visionanimationexport_hype_container" style="margin:auto;position:relative;width:100%;height:100%;overflow:hidden;">
         <script type="text/javascript" charset="utf-8" src="vision-animation/vision-animation-export.hyperesources/visionanimationexport_hype_generated_script.js?21953"></script>
 </div>
