@@ -26,7 +26,7 @@ Stylesheets: home.css
 <div class="item active" style="background-image: url(/images/exotic-purple-distortions-part-2-3.png); background-repeat:both;  height: 60vh;">
 <div class="jumbotron">
 <div class="screen">
-<h1>Welcome to Make It Zone</h1>
+<h1>Welcome to MakeItZone</h1>
 <p>The power of Ironman's workshop is here. <strong>Now.</strong></p>
 <p>Let us show you how to use it.</p>
 <div class="text-center"><a class="btn btn-primary btn-xs" href="/classes.html" role="button">Learn more</a></div>
