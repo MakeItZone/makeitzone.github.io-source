@@ -32,14 +32,15 @@ Note: Some tools will require safety training before use.
 ### We Offer
 
 <div markdown="1" class="clearfix">
+#### [Laser cutting and Engraving]({filename}lasercutting.md)
+
 <div class="pull-right" style="width: 50%">
 <img src="images/Speedy300.jpg" alt="Speedy 300" id="speedy_1" class="img-responsive img-rounded center-block" width="85%">
-<div class="caption text-center">
+<div class="caption text-center" style="width: 85%; word-wrap: break-word;">
 <p>Speedy 300</p>
 <p><i class="fa fa-camera-retro fa-lg"></i><a href="https://flic.kr/p/otxiuH" class="icon-label">Emmanuelle Roux</a></p>
 </div>
 </div>
-#### [Laser cutting and Engraving]({filename}lasercutting.md)
 
 We have a [Trotec Speedy 300](https://www.troteclaser.com/en-ca/laser-machines/laser-engravers-speedy-series/) CO<sub>2</sub> laser engraver.
 
@@ -51,14 +52,15 @@ We also have a rotary attachement that allows working with round objects such as
 </div>
 
 <div markdown="1" class="clearfix">
+#### [3D Printing]({filename}3dprinting.md)
+
 <div class="pull-left" style="width: 50%">
 <img src="images/taz4.jpg" alt="Taz 4" id="taz_1" class="img-responsive img-rounded center-block" width="85%">
-<div class="caption text-center">
+<div class="caption text-center" style="width: 85%; word-wrap: break-word;">
 <p>Lulzbot Taz Printers</p>
 <p><i class="fa fa-camera-retro fa-lg"></i><a href="https://flic.kr/p/nDW6QN" class="icon-label">SparkFun</a></p>
 </div>
 </div>
-#### [3D Printing]({filename}3dprinting.md)
 
 With a build volume of close to 30cm<sup>3</sup> (nearly a cubic foot) the [Lulzbot Taz](https://www.lulzbot.com) is able to print many projects as a single piece.
 
@@ -68,23 +70,24 @@ We have two full size Taz printers ready to serve your needs.
 </div>
 
 <div markdown="1" class="clearfix">
+#### 3D Scanning
+
 <div class="pull-right" style="width: 25%">
 <div>
 <img src="images/etc-usa-ces2016-ocitiptal-structure-sensor.jpg" alt="Structure Sensor" id="structure_1" class="img-responsive img-rounded center-block" width="85%">
-<div class="caption text-center">
+<div class="caption text-center" style="width: 85%; word-wrap: break-word;">
 <p>Occipital Structure Sensor</p>
 <p><i class="fa fa-camera-retro fa-lg"></i><a href="https://flic.kr/p/C3jRgy" class="icon-label">ETC-USC</a></p>
 </div>
 </div>
 <div>
 <img src="images/creative-tools-kinect.jpg" alt="Kinect Sensor" id="kinect_1" class="img-responsive img-rounded center-block" width="85%">
-<div class="caption text-center">
+<div class="caption text-center" style="width: 85%; word-wrap: break-word;">
 <p>Kinect Sensor</p>
 <p><i class="fa fa-camera-retro fa-lg"></i><a href="https://flic.kr/p/9eeMa2" class="icon-label">Creative Tools</a></p>
 </div>
 </div>
 </div>
-#### 3D Scanning
 
 Want to create a 3D printed bust? Create lifelike avatars for a software project? Or capture other real-world objects for use in your digital projects?
 
@@ -92,23 +95,23 @@ Then make use of our 3D scanners! We have an [Occipital Structure Sensor](https:
 </div>
 
 <div markdown="1" class="clearfix">
+#### Virtual Reality (VR) & Augmented Reality (AR)
+
 <div class="pull-left" style="width: 25%">
 <div>
 <img src="images/bago_games_htc_vive.jpg" alt="HTC Vive" id="vive_1" class="img-responsive img-rounded center-block" width="85%">
-<div class="caption text-center">
+<div class="caption text-center" style="width: 85%; word-wrap: break-word;">
 <p>HTC Vive</p>
-<p><i class="fa fa-camera-retro fa-lg"></i><a href="https://flic.kr/p/FnUK55" class="icon-label">BagoGames</a></p>
+<p><i class="fa fa-camera-retro fa-lg"></i><a href="https://flic.kr/p/FnUK55" class="icon-label">Bago Games</a></p>
 </div>
 </div>
 <div>
 <img src="images/Google-Cardboard.jpg" alt="Google Cardboard" id="cardboard_1" class="img-responsive img-rounded center-block" width="85%">
-<div class="caption text-center">
+<div class="caption text-center" style="width: 85%; word-wrap: break-word;">
 <p>Google Cardboard</p>
 </div>
 </div>
 </div>
-
-#### Virtual Reality (VR) & Augmented Reality (AR)
 
 Come and use our HTC Vive to learn, explore, or just have fun.
 
@@ -117,10 +120,11 @@ Or experiment with Google cardboard and your own phone!
 
 
 <div markdown="1" class="clearfix">
+#### Computer Lab
+
 <div class="pull-right" style="width: 50%">
 <img src="images/computer.png" alt="Computer" id="pc_1" class="img-responsive img-rounded center-block" width="85%">
 </div>
-#### Computer Lab
 
 A fully functional lab of computers, ready for CAD, drawing, electronics, programming, and more.
 
@@ -134,14 +138,15 @@ Software includes:
 </div>
 
 <div markdown="1" class="clearfix">
+#### Hosted Software
+
 <div class="pull-left" style="width: 50%">
 <img src="images/cloud_computing_icon.png" alt="Cloud Computing" id="web_1" class="img-responsive img-rounded center-block" width="85%">
-<div class="caption text-center">
+<div class="caption text-center" style="width: 85%; word-wrap: break-word;">
 <p>Cloud Computing</p>
 <p><i class="fa fa-camera-retro fa-lg"></i><a href="https://commons.wikimedia.org/wiki/File:Cloud_computing_icon.svg" class="icon-label">Wikimedia Commons</a></p>
 </div>
 </div>
-#### Hosted Software
 
 We host some software, including:
 
@@ -152,14 +157,15 @@ We host some software, including:
 </div>
 
 <div markdown="1" class="clearfix">
+#### Electronics Lab
+
 <div class="pull-right" style="width: 50%">
 <img src="images/Tin_Electronics_Lab.jpg" alt="Electronics Lab in a Tin" id="ellab_1" class="img-responsive img-rounded center-block" width="85%">
-<div class="caption text-center">
+<div class="caption text-center" style="width: 85%; word-wrap: break-word;">
 <p>Electronics Lab</p>
 <p><i class="fa fa-camera-retro fa-lg"></i><a href="https://commons.wikimedia.org/wiki/File:Tin_Electronics_Lab_(open).jpg" class="icon-label">Wikimedia Commons</a></p>
 </div>
 </div>
-#### Electronics Lab
 
 Includes:
 
