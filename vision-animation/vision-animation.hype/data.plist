@@ -48,8 +48,8 @@
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
-		<string>kPropertiesMenuItemIdentifierAnimated</string>
 		<string>kPropertiesMenuItemIdentifierPosition</string>
+		<string>kPropertiesMenuItemIdentifierAnimated</string>
 	</array>
 	<key>documentVersion</key>
 	<string>574</string>
@@ -101,7 +101,7 @@
 	<key>hasManuallyChangedCSSPositioning</key>
 	<false/>
 	<key>lastCheckDate</key>
-	<date>2017-03-08T08:49:06Z</date>
+	<date>2017-03-09T09:20:38Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -171,7 +171,7 @@
 							<array>
 								<dict>
 									<key>frame</key>
-									<string>{{136, 0}, {1269, 421.26171875}}</string>
+									<string>{{136, 0}, {1269, 240}}</string>
 									<key>identifier</key>
 									<string>container 4</string>
 									<key>isCustomizableViewContainer</key>
@@ -184,7 +184,7 @@
 									<array>
 										<dict>
 											<key>frame</key>
-											<string>{{136, 0}, {1269, 421.5}}</string>
+											<string>{{136, 0}, {1269, 240}}</string>
 											<key>identifier</key>
 											<string>timelineCustomizableContainer</string>
 											<key>isCustomizableViewContainer</key>
@@ -194,7 +194,7 @@
 								</dict>
 								<dict>
 									<key>frame</key>
-									<string>{{136, 422.26171875}, {1269, 550.73828125}}</string>
+									<string>{{136, 241}, {1269, 732}}</string>
 									<key>identifier</key>
 									<string>container 3</string>
 									<key>isCustomizableViewContainer</key>
@@ -207,7 +207,7 @@
 									<array>
 										<dict>
 											<key>frame</key>
-											<string>{{136, 422.5}, {1269, 550.5}}</string>
+											<string>{{136, 241}, {1269, 732}}</string>
 											<key>identifier</key>
 											<string>sceneEditorCustomizableContainer</string>
 											<key>isCustomizableViewContainer</key>
@@ -247,7 +247,7 @@
 		<key>keyframeTimelineHeight</key>
 		<real>124</real>
 		<key>mainWindowFrame</key>
-		<string>4 55 1676 995 0 0 1680 1050 </string>
+		<string>244 130 1676 995 0 0 1920 1200 </string>
 		<key>openTabs</key>
 		<array/>
 		<key>selectedTabIndex</key>
@@ -643,13 +643,13 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>3</real>
+							<real>10</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1692, 808}</string>
+					<string>{2562, 1216}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -674,7 +674,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>2</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 28}</string>
+					<string>{0, 26}</string>
 					<key>zoomFactor</key>
 					<real>0.75</real>
 				</dict>
@@ -695,13 +695,13 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>3</real>
+							<real>10</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1692, 808}</string>
+					<string>{2562, 976}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -726,7 +726,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>113</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 55}</string>
+					<string>{0, 0}</string>
 					<key>userGuides</key>
 					<array/>
 					<key>zoomFactor</key>
@@ -749,13 +749,13 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>5</real>
+							<real>10</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1692, 808}</string>
+					<string>{2562, 976}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -780,7 +780,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>75</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 29}</string>
+					<string>{0, 0}</string>
 					<key>userGuides</key>
 					<array/>
 					<key>zoomFactor</key>
@@ -803,13 +803,13 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>3.4000000953674316</real>
+							<real>10</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1692, 808}</string>
+					<string>{2562, 1188}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -834,7 +834,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>82</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 29}</string>
+					<string>{0, 21}</string>
 					<key>userGuides</key>
 					<array/>
 					<key>zoomFactor</key>
@@ -857,13 +857,13 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>5</real>
+							<real>10</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1692, 808}</string>
+					<string>{1692, 976}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -888,7 +888,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>96</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 55.5}</string>
+					<string>{0, 0}</string>
 					<key>userGuides</key>
 					<array/>
 					<key>zoomFactor</key>
@@ -918,13 +918,11 @@
 	<key>symbols</key>
 	<array>
 		<dict>
-			<key>currentGroupElement</key>
-			<string>59</string>
 			<key>documentIdentifier</key>
-			<string>8C49A8D3-E4C1-41DF-BCED-7715F0AD1DAF-68299-00006D29508AC55C</string>
+			<string>B35299BC-14B6-4A1C-992F-6343C61FFA67-5467-000010370C15F1B7</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>7</string>
+				<string>8</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -1015,33 +1013,33 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalHeight</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
-							<string>1230px</string>
+							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorBottom</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>#D8DDE4</string>
+							<string>2048px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
 							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorBottom</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1063,9 +1061,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Top</string>
+							<string>Parent</string>
 							<key>objectValue</key>
-							<string>0px</string>
+							<string>59</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1075,15 +1073,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderStyleLeft</string>
+							<string>Top</string>
 							<key>objectValue</key>
-							<string>None</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderColorLeft</string>
-							<key>objectValue</key>
-							<string>#D8DDE4</string>
+							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1093,15 +1085,21 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>BorderStyleLeft</string>
+							<key>objectValue</key>
+							<string>None</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>BackgroundRepeat</string>
 							<key>objectValue</key>
 							<string>no-repeat</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Parent</string>
+							<string>BorderColorLeft</string>
 							<key>objectValue</key>
-							<string>59</string>
+							<string>#D8DDE4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1189,15 +1187,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>0px</string>
+							<string>1230px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>2048px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>7</key>
@@ -1210,9 +1208,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#000000</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1372,9 +1370,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#000000</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>8</key>
@@ -2151,7 +2149,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -2187,7 +2185,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -2223,7 +2221,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -2259,7 +2257,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -2295,7 +2293,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -2331,7 +2329,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -2367,7 +2365,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -2403,7 +2401,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -2439,7 +2437,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -2475,7 +2473,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -2515,78 +2513,6 @@
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>ScaleX</string>
-									<key>objectValue</key>
-									<string>2</string>
-								</dict>
-								<key>identifier</key>
-								<string>ScaleX</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>8</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>ScaleX</string>
-									<key>objectValue</key>
-									<string>1</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>B7DFDA3F-D751-4684-AD79-31CEB5C3DFE8-41657-0000458BB8087230</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>2.5</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0.1</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>8</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>65C52C7D-2A32-4C7B-AF41-78B4E5458C60-41657-0000459997113436</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>2.5</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
 									<string>Left</string>
 									<key>objectValue</key>
 									<string>1290px</string>
@@ -2598,7 +2524,7 @@
 								<key>referenceOid</key>
 								<string>8</string>
 								<key>startTime</key>
-								<real>5</real>
+								<real>7.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -2623,58 +2549,22 @@
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>Top</string>
-									<key>objectValue</key>
-									<string>175px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Top</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>8</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Top</string>
-									<key>objectValue</key>
-									<string>10px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>B193EB99-ED0C-45AF-807D-E9F14B63B772-41657-00004592D1598EB2</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>2.5</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>ScaleY</string>
+									<string>ScaleX</string>
 									<key>objectValue</key>
 									<string>2</string>
 								</dict>
 								<key>identifier</key>
-								<string>ScaleY</string>
+								<string>ScaleX</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
 								<string>8</string>
 								<key>startTime</key>
-								<real>5</real>
+								<real>7.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>ScaleY</string>
+									<string>ScaleX</string>
 									<key>objectValue</key>
 									<string>1</string>
 								</dict>
@@ -2685,7 +2575,7 @@
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>796E736A-8169-471D-ABC3-F25C5740804E-41657-0000458BB8361B9F</string>
+								<string>B7DFDA3F-D751-4684-AD79-31CEB5C3DFE8-41657-0000458BB8087230</string>
 								<key>zIndex</key>
 								<integer>3</integer>
 							</dict>
@@ -2695,58 +2585,22 @@
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>BackgroundColor</string>
-									<key>objectValue</key>
-									<string>rgba(232, 235, 237, 0.000)</string>
-								</dict>
-								<key>identifier</key>
-								<string>BackgroundColor</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>8</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BackgroundColor</string>
-									<key>objectValue</key>
-									<string>rgba(232, 235, 237, 0.500)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>97066233-D3DC-401C-97A3-322476CF885A-41657-0000468FAF740A67</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>2.5</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorLeft</string>
+									<string>BorderColorBottom</string>
 									<key>objectValue</key>
 									<string>rgba(255, 255, 255, 0.000)</string>
 								</dict>
 								<key>identifier</key>
-								<string>BorderColorLeft</string>
+								<string>BorderColorBottom</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
 								<string>8</string>
 								<key>startTime</key>
-								<real>5</real>
+								<real>7.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>BorderColorLeft</string>
+									<string>BorderColorBottom</string>
 									<key>objectValue</key>
 									<string>rgba(255, 255, 255, 0.500)</string>
 								</dict>
@@ -2757,43 +2611,7 @@
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>3B89E6F5-DDE9-4DE4-8655-1F796D69E1AB-41657-000046915DE8DAE4</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>2.5</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorRight</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.000)</string>
-								</dict>
-								<key>identifier</key>
-								<string>BorderColorRight</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>8</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorRight</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.500)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>4B95D43D-11DE-4837-BE2D-849A720AA666-41657-000046915E1F29E5</string>
+								<string>E0F2CB4D-45E2-4E1A-9DB6-C2FF75C7C716-41657-000046915E6ED20F</string>
 								<key>zIndex</key>
 								<integer>3</integer>
 							</dict>
@@ -2814,7 +2632,7 @@
 								<key>referenceOid</key>
 								<string>8</string>
 								<key>startTime</key>
-								<real>5</real>
+								<real>7.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -2839,22 +2657,22 @@
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>BorderColorBottom</string>
+									<string>BorderColorRight</string>
 									<key>objectValue</key>
 									<string>rgba(255, 255, 255, 0.000)</string>
 								</dict>
 								<key>identifier</key>
-								<string>BorderColorBottom</string>
+								<string>BorderColorRight</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
 								<string>8</string>
 								<key>startTime</key>
-								<real>5</real>
+								<real>7.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>BorderColorBottom</string>
+									<string>BorderColorRight</string>
 									<key>objectValue</key>
 									<string>rgba(255, 255, 255, 0.500)</string>
 								</dict>
@@ -2865,7 +2683,187 @@
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>E0F2CB4D-45E2-4E1A-9DB6-C2FF75C7C716-41657-000046915E6ED20F</string>
+								<string>4B95D43D-11DE-4837-BE2D-849A720AA666-41657-000046915E1F29E5</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>2.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BorderColorLeft</string>
+									<key>objectValue</key>
+									<string>rgba(255, 255, 255, 0.000)</string>
+								</dict>
+								<key>identifier</key>
+								<string>BorderColorLeft</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>8</string>
+								<key>startTime</key>
+								<real>7.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BorderColorLeft</string>
+									<key>objectValue</key>
+									<string>rgba(255, 255, 255, 0.500)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>3B89E6F5-DDE9-4DE4-8655-1F796D69E1AB-41657-000046915DE8DAE4</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>2.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BackgroundColor</string>
+									<key>objectValue</key>
+									<string>rgba(232, 235, 237, 0.000)</string>
+								</dict>
+								<key>identifier</key>
+								<string>BackgroundColor</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>8</string>
+								<key>startTime</key>
+								<real>7.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BackgroundColor</string>
+									<key>objectValue</key>
+									<string>rgba(232, 235, 237, 0.500)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>97066233-D3DC-401C-97A3-322476CF885A-41657-0000468FAF740A67</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>2.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>ScaleY</string>
+									<key>objectValue</key>
+									<string>2</string>
+								</dict>
+								<key>identifier</key>
+								<string>ScaleY</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>8</string>
+								<key>startTime</key>
+								<real>7.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>ScaleY</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>796E736A-8169-471D-ABC3-F25C5740804E-41657-0000458BB8361B9F</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>2.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0.1</string>
+								</dict>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>8</string>
+								<key>startTime</key>
+								<real>7.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>65C52C7D-2A32-4C7B-AF41-78B4E5458C60-41657-0000459997113436</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>2.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>175px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Top</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>8</string>
+								<key>startTime</key>
+								<real>7.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>10px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>B193EB99-ED0C-45AF-807D-E9F14B63B772-41657-00004592D1598EB2</string>
 								<key>zIndex</key>
 								<integer>3</integer>
 							</dict>
@@ -2879,7 +2877,7 @@
 								<key>referenceOid</key>
 								<string>kTimelineDefaultIdentifier</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -2916,187 +2914,13 @@
 								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
-								<string>BorderColorBottom</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>8</string>
-								<key>startTime</key>
-								<real>7.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorBottom</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.000)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>1164F7BC-5F7F-4394-9890-D777B780A67C-41657-0000468D99913D6B</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>BorderColorTop</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>8</string>
-								<key>startTime</key>
-								<real>7.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorTop</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.000)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>28223191-C1D1-4F8C-8C10-929B29589692-41657-0000468D996E791B</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>BorderColorRight</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>8</string>
-								<key>startTime</key>
-								<real>7.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorRight</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.000)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>F98E0A0D-8748-4775-A891-113BF34726B9-41657-0000468D9949A538</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>BorderColorLeft</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>8</string>
-								<key>startTime</key>
-								<real>7.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorLeft</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.000)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>A255123E-8241-4ABC-A66D-E213CCDB3EB2-41657-0000468D991B25DF</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>BackgroundColor</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>8</string>
-								<key>startTime</key>
-								<real>7.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BackgroundColor</string>
-									<key>objectValue</key>
-									<string>rgba(232, 235, 237, 0.000)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>F1346D6B-4633-436C-9690-B5827E6735CA-41657-0000468C6C619DB9</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>ScaleY</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>8</string>
-								<key>startTime</key>
-								<real>7.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>ScaleY</string>
-									<key>objectValue</key>
-									<string>2</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>0998FC05-CD96-49E2-AE50-1B7ECF767C18-41657-0000458986058BD6</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
 								<string>Top</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
 								<string>8</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -3119,19 +2943,19 @@
 								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
-								<string>Left</string>
+								<string>ScaleY</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
 								<string>8</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>Left</string>
+									<string>ScaleY</string>
 									<key>objectValue</key>
-									<string>1290px</string>
+									<string>2</string>
 								</dict>
 								<key>symbolElementActionAttributesBySymbolTimeline</key>
 								<dict/>
@@ -3140,7 +2964,181 @@
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>E301AEAB-F3BD-4479-8690-AD30B9E62F05-41657-0000458EF63307BE</string>
+								<string>0998FC05-CD96-49E2-AE50-1B7ECF767C18-41657-0000458986058BD6</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>BackgroundColor</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>8</string>
+								<key>startTime</key>
+								<real>10</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BackgroundColor</string>
+									<key>objectValue</key>
+									<string>rgba(232, 235, 237, 0.000)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>F1346D6B-4633-436C-9690-B5827E6735CA-41657-0000468C6C619DB9</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>BorderColorLeft</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>8</string>
+								<key>startTime</key>
+								<real>10</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BorderColorLeft</string>
+									<key>objectValue</key>
+									<string>rgba(255, 255, 255, 0.000)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>A255123E-8241-4ABC-A66D-E213CCDB3EB2-41657-0000468D991B25DF</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>BorderColorRight</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>8</string>
+								<key>startTime</key>
+								<real>10</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BorderColorRight</string>
+									<key>objectValue</key>
+									<string>rgba(255, 255, 255, 0.000)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>F98E0A0D-8748-4775-A891-113BF34726B9-41657-0000468D9949A538</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>BorderColorTop</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>8</string>
+								<key>startTime</key>
+								<real>10</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BorderColorTop</string>
+									<key>objectValue</key>
+									<string>rgba(255, 255, 255, 0.000)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>28223191-C1D1-4F8C-8C10-929B29589692-41657-0000468D996E791B</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>ScaleX</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>8</string>
+								<key>startTime</key>
+								<real>10</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>ScaleX</string>
+									<key>objectValue</key>
+									<string>2</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>A3F24D46-35F4-481D-83C6-7B16328A845B-41657-0000458985D71D1F</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>BorderColorBottom</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>8</string>
+								<key>startTime</key>
+								<real>10</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BorderColorBottom</string>
+									<key>objectValue</key>
+									<string>rgba(255, 255, 255, 0.000)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>1164F7BC-5F7F-4394-9890-D777B780A67C-41657-0000468D99913D6B</string>
 								<key>zIndex</key>
 								<integer>4</integer>
 							</dict>
@@ -3154,7 +3152,7 @@
 								<key>referenceOid</key>
 								<string>8</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -3177,19 +3175,19 @@
 								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
-								<string>ScaleX</string>
+								<string>Left</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
 								<string>8</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>ScaleX</string>
+									<string>Left</string>
 									<key>objectValue</key>
-									<string>2</string>
+									<string>1290px</string>
 								</dict>
 								<key>symbolElementActionAttributesBySymbolTimeline</key>
 								<dict/>
@@ -3198,7 +3196,7 @@
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>A3F24D46-35F4-481D-83C6-7B16328A845B-41657-0000458985D71D1F</string>
+								<string>E301AEAB-F3BD-4479-8690-AD30B9E62F05-41657-0000458EF63307BE</string>
 								<key>zIndex</key>
 								<integer>4</integer>
 							</dict>
@@ -3223,10 +3221,10 @@
 			<key>currentGroupElement</key>
 			<string>79</string>
 			<key>documentIdentifier</key>
-			<string>8C49A8D3-E4C1-41DF-BCED-7715F0AD1DAF-68299-00006D29508AC55C</string>
+			<string>B35299BC-14B6-4A1C-992F-6343C61FFA67-5467-000010370C15F1B7</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>76</string>
+				<string>77</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -3248,9 +3246,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#000000</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3410,9 +3408,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#000000</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>77</key>
@@ -3747,15 +3745,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalHeight</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
-							<string>1328px</string>
+							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>2000px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3921,15 +3919,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>0px</string>
+							<string>1328px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>2000px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>79</key>
@@ -4457,7 +4455,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -4493,7 +4491,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -4529,7 +4527,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -4565,7 +4563,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -4601,7 +4599,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -4637,7 +4635,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -4673,7 +4671,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -4709,7 +4707,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -4745,7 +4743,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -4781,7 +4779,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -4821,42 +4819,6 @@
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>ScaleX</string>
-									<key>objectValue</key>
-									<string>2</string>
-								</dict>
-								<key>identifier</key>
-								<string>ScaleX</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>77</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>ScaleX</string>
-									<key>objectValue</key>
-									<string>1</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>B7DFDA3F-D751-4684-AD79-31CEB5C3DFE8-41657-0000458BB8087230</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>2.5</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
 									<string>Opacity</string>
 									<key>objectValue</key>
 									<string>0.1</string>
@@ -4868,7 +4830,7 @@
 								<key>referenceOid</key>
 								<string>77</string>
 								<key>startTime</key>
-								<real>5</real>
+								<real>7.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -4904,7 +4866,7 @@
 								<key>referenceOid</key>
 								<string>77</string>
 								<key>startTime</key>
-								<real>5</real>
+								<real>7.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -4929,24 +4891,24 @@
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>Top</string>
+									<string>BorderColorBottom</string>
 									<key>objectValue</key>
-									<string>175px</string>
+									<string>rgba(255, 255, 255, 0.000)</string>
 								</dict>
 								<key>identifier</key>
-								<string>Top</string>
+								<string>BorderColorBottom</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
 								<string>77</string>
 								<key>startTime</key>
-								<real>5</real>
+								<real>7.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>Top</string>
+									<string>BorderColorBottom</string>
 									<key>objectValue</key>
-									<string>10px</string>
+									<string>rgba(255, 255, 255, 0.500)</string>
 								</dict>
 								<key>symbolElementActionAttributesBySymbolTimeline</key>
 								<dict/>
@@ -4955,7 +4917,7 @@
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>B193EB99-ED0C-45AF-807D-E9F14B63B772-41657-00004592D1598EB2</string>
+								<string>E0F2CB4D-45E2-4E1A-9DB6-C2FF75C7C716-41657-000046915E6ED20F</string>
 								<key>zIndex</key>
 								<integer>3</integer>
 							</dict>
@@ -4965,22 +4927,22 @@
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>ScaleY</string>
+									<string>ScaleX</string>
 									<key>objectValue</key>
 									<string>2</string>
 								</dict>
 								<key>identifier</key>
-								<string>ScaleY</string>
+								<string>ScaleX</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
 								<string>77</string>
 								<key>startTime</key>
-								<real>5</real>
+								<real>7.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>ScaleY</string>
+									<string>ScaleX</string>
 									<key>objectValue</key>
 									<string>1</string>
 								</dict>
@@ -4991,115 +4953,7 @@
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>796E736A-8169-471D-ABC3-F25C5740804E-41657-0000458BB8361B9F</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>2.5</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BackgroundColor</string>
-									<key>objectValue</key>
-									<string>rgba(232, 235, 237, 0.000)</string>
-								</dict>
-								<key>identifier</key>
-								<string>BackgroundColor</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>77</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BackgroundColor</string>
-									<key>objectValue</key>
-									<string>rgba(232, 235, 237, 0.500)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>97066233-D3DC-401C-97A3-322476CF885A-41657-0000468FAF740A67</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>2.5</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorLeft</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.000)</string>
-								</dict>
-								<key>identifier</key>
-								<string>BorderColorLeft</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>77</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorLeft</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.500)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>3B89E6F5-DDE9-4DE4-8655-1F796D69E1AB-41657-000046915DE8DAE4</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>2.5</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorRight</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.000)</string>
-								</dict>
-								<key>identifier</key>
-								<string>BorderColorRight</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>77</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorRight</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.500)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>4B95D43D-11DE-4837-BE2D-849A720AA666-41657-000046915E1F29E5</string>
+								<string>B7DFDA3F-D751-4684-AD79-31CEB5C3DFE8-41657-0000458BB8087230</string>
 								<key>zIndex</key>
 								<integer>3</integer>
 							</dict>
@@ -5120,7 +4974,7 @@
 								<key>referenceOid</key>
 								<string>77</string>
 								<key>startTime</key>
-								<real>5</real>
+								<real>7.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -5145,22 +4999,22 @@
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>BorderColorBottom</string>
+									<string>BorderColorRight</string>
 									<key>objectValue</key>
 									<string>rgba(255, 255, 255, 0.000)</string>
 								</dict>
 								<key>identifier</key>
-								<string>BorderColorBottom</string>
+								<string>BorderColorRight</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
 								<string>77</string>
 								<key>startTime</key>
-								<real>5</real>
+								<real>7.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>BorderColorBottom</string>
+									<string>BorderColorRight</string>
 									<key>objectValue</key>
 									<string>rgba(255, 255, 255, 0.500)</string>
 								</dict>
@@ -5171,7 +5025,151 @@
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>E0F2CB4D-45E2-4E1A-9DB6-C2FF75C7C716-41657-000046915E6ED20F</string>
+								<string>4B95D43D-11DE-4837-BE2D-849A720AA666-41657-000046915E1F29E5</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>2.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BorderColorLeft</string>
+									<key>objectValue</key>
+									<string>rgba(255, 255, 255, 0.000)</string>
+								</dict>
+								<key>identifier</key>
+								<string>BorderColorLeft</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>77</string>
+								<key>startTime</key>
+								<real>7.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BorderColorLeft</string>
+									<key>objectValue</key>
+									<string>rgba(255, 255, 255, 0.500)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>3B89E6F5-DDE9-4DE4-8655-1F796D69E1AB-41657-000046915DE8DAE4</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>2.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BackgroundColor</string>
+									<key>objectValue</key>
+									<string>rgba(232, 235, 237, 0.000)</string>
+								</dict>
+								<key>identifier</key>
+								<string>BackgroundColor</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>77</string>
+								<key>startTime</key>
+								<real>7.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BackgroundColor</string>
+									<key>objectValue</key>
+									<string>rgba(232, 235, 237, 0.500)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>97066233-D3DC-401C-97A3-322476CF885A-41657-0000468FAF740A67</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>2.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>ScaleY</string>
+									<key>objectValue</key>
+									<string>2</string>
+								</dict>
+								<key>identifier</key>
+								<string>ScaleY</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>77</string>
+								<key>startTime</key>
+								<real>7.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>ScaleY</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>796E736A-8169-471D-ABC3-F25C5740804E-41657-0000458BB8361B9F</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>2.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>175px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Top</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>77</string>
+								<key>startTime</key>
+								<real>7.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>10px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>B193EB99-ED0C-45AF-807D-E9F14B63B772-41657-00004592D1598EB2</string>
 								<key>zIndex</key>
 								<integer>3</integer>
 							</dict>
@@ -5185,7 +5183,7 @@
 								<key>referenceOid</key>
 								<string>kTimelineDefaultIdentifier</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -5222,187 +5220,13 @@
 								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
-								<string>BorderColorBottom</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>77</string>
-								<key>startTime</key>
-								<real>7.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorBottom</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.000)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>1164F7BC-5F7F-4394-9890-D777B780A67C-41657-0000468D99913D6B</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>BorderColorTop</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>77</string>
-								<key>startTime</key>
-								<real>7.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorTop</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.000)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>28223191-C1D1-4F8C-8C10-929B29589692-41657-0000468D996E791B</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>BorderColorRight</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>77</string>
-								<key>startTime</key>
-								<real>7.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorRight</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.000)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>F98E0A0D-8748-4775-A891-113BF34726B9-41657-0000468D9949A538</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>BorderColorLeft</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>77</string>
-								<key>startTime</key>
-								<real>7.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorLeft</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.000)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>A255123E-8241-4ABC-A66D-E213CCDB3EB2-41657-0000468D991B25DF</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>BackgroundColor</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>77</string>
-								<key>startTime</key>
-								<real>7.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BackgroundColor</string>
-									<key>objectValue</key>
-									<string>rgba(232, 235, 237, 0.000)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>F1346D6B-4633-436C-9690-B5827E6735CA-41657-0000468C6C619DB9</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>ScaleY</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>77</string>
-								<key>startTime</key>
-								<real>7.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>ScaleY</string>
-									<key>objectValue</key>
-									<string>2</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>0998FC05-CD96-49E2-AE50-1B7ECF767C18-41657-0000458986058BD6</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
 								<string>Top</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
 								<string>77</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -5425,19 +5249,19 @@
 								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
-								<string>Left</string>
+								<string>ScaleY</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
 								<string>77</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>Left</string>
+									<string>ScaleY</string>
 									<key>objectValue</key>
-									<string>1290px</string>
+									<string>2</string>
 								</dict>
 								<key>symbolElementActionAttributesBySymbolTimeline</key>
 								<dict/>
@@ -5446,7 +5270,152 @@
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>E301AEAB-F3BD-4479-8690-AD30B9E62F05-41657-0000458EF63307BE</string>
+								<string>0998FC05-CD96-49E2-AE50-1B7ECF767C18-41657-0000458986058BD6</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>BackgroundColor</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>77</string>
+								<key>startTime</key>
+								<real>10</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BackgroundColor</string>
+									<key>objectValue</key>
+									<string>rgba(232, 235, 237, 0.000)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>F1346D6B-4633-436C-9690-B5827E6735CA-41657-0000468C6C619DB9</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>BorderColorLeft</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>77</string>
+								<key>startTime</key>
+								<real>10</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BorderColorLeft</string>
+									<key>objectValue</key>
+									<string>rgba(255, 255, 255, 0.000)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>A255123E-8241-4ABC-A66D-E213CCDB3EB2-41657-0000468D991B25DF</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>ScaleX</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>77</string>
+								<key>startTime</key>
+								<real>10</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>ScaleX</string>
+									<key>objectValue</key>
+									<string>2</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>A3F24D46-35F4-481D-83C6-7B16328A845B-41657-0000458985D71D1F</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>BorderColorRight</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>77</string>
+								<key>startTime</key>
+								<real>10</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BorderColorRight</string>
+									<key>objectValue</key>
+									<string>rgba(255, 255, 255, 0.000)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>F98E0A0D-8748-4775-A891-113BF34726B9-41657-0000468D9949A538</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>BorderColorTop</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>77</string>
+								<key>startTime</key>
+								<real>10</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BorderColorTop</string>
+									<key>objectValue</key>
+									<string>rgba(255, 255, 255, 0.000)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>28223191-C1D1-4F8C-8C10-929B29589692-41657-0000468D996E791B</string>
 								<key>zIndex</key>
 								<integer>4</integer>
 							</dict>
@@ -5460,7 +5429,7 @@
 								<key>referenceOid</key>
 								<string>77</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -5483,19 +5452,19 @@
 								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
-								<string>ScaleX</string>
+								<string>Left</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
 								<string>77</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>ScaleX</string>
+									<string>Left</string>
 									<key>objectValue</key>
-									<string>2</string>
+									<string>1290px</string>
 								</dict>
 								<key>symbolElementActionAttributesBySymbolTimeline</key>
 								<dict/>
@@ -5504,7 +5473,36 @@
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>A3F24D46-35F4-481D-83C6-7B16328A845B-41657-0000458985D71D1F</string>
+								<string>E301AEAB-F3BD-4479-8690-AD30B9E62F05-41657-0000458EF63307BE</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>BorderColorBottom</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>77</string>
+								<key>startTime</key>
+								<real>10</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BorderColorBottom</string>
+									<key>objectValue</key>
+									<string>rgba(255, 255, 255, 0.000)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>1164F7BC-5F7F-4394-9890-D777B780A67C-41657-0000468D99913D6B</string>
 								<key>zIndex</key>
 								<integer>4</integer>
 							</dict>
@@ -5526,13 +5524,11 @@
 			</dict>
 		</dict>
 		<dict>
-			<key>currentGroupElement</key>
-			<string>86</string>
 			<key>documentIdentifier</key>
-			<string>8C49A8D3-E4C1-41DF-BCED-7715F0AD1DAF-68299-00006D29508AC55C</string>
+			<string>B35299BC-14B6-4A1C-992F-6343C61FFA67-5467-000010370C15F1B7</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>85</string>
+				<string>84</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -5554,15 +5550,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>0px</string>
+							<string>640px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>640px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5728,15 +5724,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalHeight</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
-							<string>640px</string>
+							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>640px</string>
 						</dict>
 					</array>
 					<key>84</key>
@@ -6073,9 +6069,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#000000</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6235,9 +6231,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#000000</string>
 						</dict>
 					</array>
 					<key>86</key>
@@ -6765,7 +6761,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -6801,7 +6797,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -6837,7 +6833,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -6873,7 +6869,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -6909,7 +6905,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -6945,7 +6941,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -6981,7 +6977,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -7017,7 +7013,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -7053,7 +7049,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -7089,7 +7085,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -7129,258 +7125,6 @@
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>ScaleX</string>
-									<key>objectValue</key>
-									<string>2</string>
-								</dict>
-								<key>identifier</key>
-								<string>ScaleX</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>84</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>ScaleX</string>
-									<key>objectValue</key>
-									<string>1</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>B7DFDA3F-D751-4684-AD79-31CEB5C3DFE8-41657-0000458BB8087230</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>2.5</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0.1</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>84</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>65C52C7D-2A32-4C7B-AF41-78B4E5458C60-41657-0000459997113436</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>2.5</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Left</string>
-									<key>objectValue</key>
-									<string>1290px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Left</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>84</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Left</string>
-									<key>objectValue</key>
-									<string>10px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>BFAA627A-37DE-489F-A29F-78CBBD4CF019-41657-00004592A90889ED</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>2.5</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Top</string>
-									<key>objectValue</key>
-									<string>175px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Top</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>84</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Top</string>
-									<key>objectValue</key>
-									<string>10px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>B193EB99-ED0C-45AF-807D-E9F14B63B772-41657-00004592D1598EB2</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>2.5</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>ScaleY</string>
-									<key>objectValue</key>
-									<string>2</string>
-								</dict>
-								<key>identifier</key>
-								<string>ScaleY</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>84</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>ScaleY</string>
-									<key>objectValue</key>
-									<string>1</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>796E736A-8169-471D-ABC3-F25C5740804E-41657-0000458BB8361B9F</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>2.5</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BackgroundColor</string>
-									<key>objectValue</key>
-									<string>rgba(232, 235, 237, 0.000)</string>
-								</dict>
-								<key>identifier</key>
-								<string>BackgroundColor</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>84</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BackgroundColor</string>
-									<key>objectValue</key>
-									<string>rgba(232, 235, 237, 0.500)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>97066233-D3DC-401C-97A3-322476CF885A-41657-0000468FAF740A67</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>2.5</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorLeft</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.000)</string>
-								</dict>
-								<key>identifier</key>
-								<string>BorderColorLeft</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>84</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorLeft</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.500)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>3B89E6F5-DDE9-4DE4-8655-1F796D69E1AB-41657-000046915DE8DAE4</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>2.5</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
 									<string>BorderColorRight</string>
 									<key>objectValue</key>
 									<string>rgba(255, 255, 255, 0.000)</string>
@@ -7392,7 +7136,7 @@
 								<key>referenceOid</key>
 								<string>84</string>
 								<key>startTime</key>
-								<real>5</real>
+								<real>7.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -7417,22 +7161,22 @@
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>BorderColorTop</string>
+									<string>BorderColorLeft</string>
 									<key>objectValue</key>
 									<string>rgba(255, 255, 255, 0.000)</string>
 								</dict>
 								<key>identifier</key>
-								<string>BorderColorTop</string>
+								<string>BorderColorLeft</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
 								<string>84</string>
 								<key>startTime</key>
-								<real>5</real>
+								<real>7.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>BorderColorTop</string>
+									<string>BorderColorLeft</string>
 									<key>objectValue</key>
 									<string>rgba(255, 255, 255, 0.500)</string>
 								</dict>
@@ -7443,7 +7187,187 @@
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>7E1E7B97-6823-4970-B00F-A0787E7C993F-41657-000046915E48FC81</string>
+								<string>3B89E6F5-DDE9-4DE4-8655-1F796D69E1AB-41657-000046915DE8DAE4</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>2.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BackgroundColor</string>
+									<key>objectValue</key>
+									<string>rgba(232, 235, 237, 0.000)</string>
+								</dict>
+								<key>identifier</key>
+								<string>BackgroundColor</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>84</string>
+								<key>startTime</key>
+								<real>7.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BackgroundColor</string>
+									<key>objectValue</key>
+									<string>rgba(232, 235, 237, 0.500)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>97066233-D3DC-401C-97A3-322476CF885A-41657-0000468FAF740A67</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>2.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>ScaleY</string>
+									<key>objectValue</key>
+									<string>2</string>
+								</dict>
+								<key>identifier</key>
+								<string>ScaleY</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>84</string>
+								<key>startTime</key>
+								<real>7.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>ScaleY</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>796E736A-8169-471D-ABC3-F25C5740804E-41657-0000458BB8361B9F</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>2.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>175px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Top</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>84</string>
+								<key>startTime</key>
+								<real>7.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>10px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>B193EB99-ED0C-45AF-807D-E9F14B63B772-41657-00004592D1598EB2</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>2.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>1290px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Left</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>84</string>
+								<key>startTime</key>
+								<real>7.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>10px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>BFAA627A-37DE-489F-A29F-78CBBD4CF019-41657-00004592A90889ED</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>2.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0.1</string>
+								</dict>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>84</string>
+								<key>startTime</key>
+								<real>7.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>65C52C7D-2A32-4C7B-AF41-78B4E5458C60-41657-0000459997113436</string>
 								<key>zIndex</key>
 								<integer>3</integer>
 							</dict>
@@ -7464,7 +7388,7 @@
 								<key>referenceOid</key>
 								<string>84</string>
 								<key>startTime</key>
-								<real>5</real>
+								<real>7.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -7485,6 +7409,78 @@
 							</dict>
 							<dict>
 								<key>duration</key>
+								<real>2.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>ScaleX</string>
+									<key>objectValue</key>
+									<string>2</string>
+								</dict>
+								<key>identifier</key>
+								<string>ScaleX</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>84</string>
+								<key>startTime</key>
+								<real>7.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>ScaleX</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>B7DFDA3F-D751-4684-AD79-31CEB5C3DFE8-41657-0000458BB8087230</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>2.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BorderColorTop</string>
+									<key>objectValue</key>
+									<string>rgba(255, 255, 255, 0.000)</string>
+								</dict>
+								<key>identifier</key>
+								<string>BorderColorTop</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>84</string>
+								<key>startTime</key>
+								<real>7.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BorderColorTop</string>
+									<key>objectValue</key>
+									<string>rgba(255, 255, 255, 0.500)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>7E1E7B97-6823-4970-B00F-A0787E7C993F-41657-000046915E48FC81</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
 								<string>ActionHandler</string>
@@ -7493,7 +7489,7 @@
 								<key>referenceOid</key>
 								<string>kTimelineDefaultIdentifier</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -7530,129 +7526,13 @@
 								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
-								<string>BorderColorBottom</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>84</string>
-								<key>startTime</key>
-								<real>7.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorBottom</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.000)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>1164F7BC-5F7F-4394-9890-D777B780A67C-41657-0000468D99913D6B</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>BorderColorTop</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>84</string>
-								<key>startTime</key>
-								<real>7.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorTop</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.000)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>28223191-C1D1-4F8C-8C10-929B29589692-41657-0000468D996E791B</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>BorderColorRight</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>84</string>
-								<key>startTime</key>
-								<real>7.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorRight</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.000)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>F98E0A0D-8748-4775-A891-113BF34726B9-41657-0000468D9949A538</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>BorderColorLeft</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>84</string>
-								<key>startTime</key>
-								<real>7.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorLeft</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.000)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>A255123E-8241-4ABC-A66D-E213CCDB3EB2-41657-0000468D991B25DF</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
 								<string>BackgroundColor</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
 								<string>84</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -7675,17 +7555,104 @@
 								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
-								<string>ScaleY</string>
+								<string>BorderColorLeft</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
 								<string>84</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>ScaleY</string>
+									<string>BorderColorLeft</string>
+									<key>objectValue</key>
+									<string>rgba(255, 255, 255, 0.000)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>A255123E-8241-4ABC-A66D-E213CCDB3EB2-41657-0000468D991B25DF</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>BorderColorRight</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>84</string>
+								<key>startTime</key>
+								<real>10</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BorderColorRight</string>
+									<key>objectValue</key>
+									<string>rgba(255, 255, 255, 0.000)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>F98E0A0D-8748-4775-A891-113BF34726B9-41657-0000468D9949A538</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>BorderColorTop</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>84</string>
+								<key>startTime</key>
+								<real>10</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BorderColorTop</string>
+									<key>objectValue</key>
+									<string>rgba(255, 255, 255, 0.000)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>28223191-C1D1-4F8C-8C10-929B29589692-41657-0000468D996E791B</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>ScaleX</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>84</string>
+								<key>startTime</key>
+								<real>10</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>ScaleX</string>
 									<key>objectValue</key>
 									<string>2</string>
 								</dict>
@@ -7696,7 +7663,7 @@
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>0998FC05-CD96-49E2-AE50-1B7ECF767C18-41657-0000458986058BD6</string>
+								<string>A3F24D46-35F4-481D-83C6-7B16328A845B-41657-0000458985D71D1F</string>
 								<key>zIndex</key>
 								<integer>4</integer>
 							</dict>
@@ -7704,19 +7671,19 @@
 								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
-								<string>Top</string>
+								<string>BorderColorBottom</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
 								<string>84</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>Top</string>
+									<string>BorderColorBottom</string>
 									<key>objectValue</key>
-									<string>175px</string>
+									<string>rgba(255, 255, 255, 0.000)</string>
 								</dict>
 								<key>symbolElementActionAttributesBySymbolTimeline</key>
 								<dict/>
@@ -7725,36 +7692,7 @@
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>FAD2BF79-95A0-408E-87B4-C2340372A909-41657-0000458EF63F6A1B</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>Left</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>84</string>
-								<key>startTime</key>
-								<real>7.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Left</string>
-									<key>objectValue</key>
-									<string>1290px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>E301AEAB-F3BD-4479-8690-AD30B9E62F05-41657-0000458EF63307BE</string>
+								<string>1164F7BC-5F7F-4394-9890-D777B780A67C-41657-0000468D99913D6B</string>
 								<key>zIndex</key>
 								<integer>4</integer>
 							</dict>
@@ -7768,7 +7706,7 @@
 								<key>referenceOid</key>
 								<string>84</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -7791,17 +7729,75 @@
 								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
-								<string>ScaleX</string>
+								<string>Left</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
 								<string>84</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>ScaleX</string>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>1290px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>E301AEAB-F3BD-4479-8690-AD30B9E62F05-41657-0000458EF63307BE</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Top</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>84</string>
+								<key>startTime</key>
+								<real>10</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>175px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>FAD2BF79-95A0-408E-87B4-C2340372A909-41657-0000458EF63F6A1B</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>ScaleY</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>84</string>
+								<key>startTime</key>
+								<real>10</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>ScaleY</string>
 									<key>objectValue</key>
 									<string>2</string>
 								</dict>
@@ -7812,7 +7808,7 @@
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>A3F24D46-35F4-481D-83C6-7B16328A845B-41657-0000458985D71D1F</string>
+								<string>0998FC05-CD96-49E2-AE50-1B7ECF767C18-41657-0000458986058BD6</string>
 								<key>zIndex</key>
 								<integer>4</integer>
 							</dict>
@@ -7837,10 +7833,10 @@
 			<key>currentGroupElement</key>
 			<string>98</string>
 			<key>documentIdentifier</key>
-			<string>8C49A8D3-E4C1-41DF-BCED-7715F0AD1DAF-68299-00006D29508AC55C</string>
+			<string>B35299BC-14B6-4A1C-992F-6343C61FFA67-5467-000010370C15F1B7</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>99</string>
+				<string>100</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -8186,15 +8182,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalHeight</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
-							<string>2448px</string>
+							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>3264px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -8360,15 +8356,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>0px</string>
+							<string>2448px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>3264px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>98</key>
@@ -8456,9 +8452,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#000000</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -8618,9 +8614,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#000000</string>
+							<string>div</string>
 						</dict>
 					</array>
 				</dict>
@@ -9073,7 +9069,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -9109,7 +9105,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -9145,7 +9141,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -9181,7 +9177,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -9217,7 +9213,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -9253,7 +9249,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -9289,7 +9285,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -9325,7 +9321,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -9361,7 +9357,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -9397,7 +9393,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -9437,222 +9433,6 @@
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>ScaleX</string>
-									<key>objectValue</key>
-									<string>2</string>
-								</dict>
-								<key>identifier</key>
-								<string>ScaleX</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>100</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>ScaleX</string>
-									<key>objectValue</key>
-									<string>1</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>B7DFDA3F-D751-4684-AD79-31CEB5C3DFE8-41657-0000458BB8087230</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>2.5</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0.1</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>100</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>65C52C7D-2A32-4C7B-AF41-78B4E5458C60-41657-0000459997113436</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>2.5</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Left</string>
-									<key>objectValue</key>
-									<string>1290px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Left</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>100</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Left</string>
-									<key>objectValue</key>
-									<string>10px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>BFAA627A-37DE-489F-A29F-78CBBD4CF019-41657-00004592A90889ED</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>2.5</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Top</string>
-									<key>objectValue</key>
-									<string>175px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Top</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>100</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Top</string>
-									<key>objectValue</key>
-									<string>10px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>B193EB99-ED0C-45AF-807D-E9F14B63B772-41657-00004592D1598EB2</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>2.5</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>ScaleY</string>
-									<key>objectValue</key>
-									<string>2</string>
-								</dict>
-								<key>identifier</key>
-								<string>ScaleY</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>100</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>ScaleY</string>
-									<key>objectValue</key>
-									<string>1</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>796E736A-8169-471D-ABC3-F25C5740804E-41657-0000458BB8361B9F</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>2.5</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BackgroundColor</string>
-									<key>objectValue</key>
-									<string>rgba(232, 235, 237, 0.000)</string>
-								</dict>
-								<key>identifier</key>
-								<string>BackgroundColor</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>100</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BackgroundColor</string>
-									<key>objectValue</key>
-									<string>rgba(232, 235, 237, 0.500)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>97066233-D3DC-401C-97A3-322476CF885A-41657-0000468FAF740A67</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>2.5</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
 									<string>BorderColorLeft</string>
 									<key>objectValue</key>
 									<string>rgba(255, 255, 255, 0.000)</string>
@@ -9664,7 +9444,7 @@
 								<key>referenceOid</key>
 								<string>100</string>
 								<key>startTime</key>
-								<real>5</real>
+								<real>7.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -9700,7 +9480,7 @@
 								<key>referenceOid</key>
 								<string>100</string>
 								<key>startTime</key>
-								<real>5</real>
+								<real>7.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -9736,7 +9516,7 @@
 								<key>referenceOid</key>
 								<string>100</string>
 								<key>startTime</key>
-								<real>5</real>
+								<real>7.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -9761,6 +9541,42 @@
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
+									<string>ScaleX</string>
+									<key>objectValue</key>
+									<string>2</string>
+								</dict>
+								<key>identifier</key>
+								<string>ScaleX</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>100</string>
+								<key>startTime</key>
+								<real>7.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>ScaleX</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>B7DFDA3F-D751-4684-AD79-31CEB5C3DFE8-41657-0000458BB8087230</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>2.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
 									<string>BorderColorBottom</string>
 									<key>objectValue</key>
 									<string>rgba(255, 255, 255, 0.000)</string>
@@ -9772,7 +9588,7 @@
 								<key>referenceOid</key>
 								<string>100</string>
 								<key>startTime</key>
-								<real>5</real>
+								<real>7.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -9793,6 +9609,186 @@
 							</dict>
 							<dict>
 								<key>duration</key>
+								<real>2.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0.1</string>
+								</dict>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>100</string>
+								<key>startTime</key>
+								<real>7.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>65C52C7D-2A32-4C7B-AF41-78B4E5458C60-41657-0000459997113436</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>2.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>1290px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Left</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>100</string>
+								<key>startTime</key>
+								<real>7.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>10px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>BFAA627A-37DE-489F-A29F-78CBBD4CF019-41657-00004592A90889ED</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>2.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>175px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Top</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>100</string>
+								<key>startTime</key>
+								<real>7.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>10px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>B193EB99-ED0C-45AF-807D-E9F14B63B772-41657-00004592D1598EB2</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>2.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>ScaleY</string>
+									<key>objectValue</key>
+									<string>2</string>
+								</dict>
+								<key>identifier</key>
+								<string>ScaleY</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>100</string>
+								<key>startTime</key>
+								<real>7.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>ScaleY</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>796E736A-8169-471D-ABC3-F25C5740804E-41657-0000458BB8361B9F</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>2.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BackgroundColor</string>
+									<key>objectValue</key>
+									<string>rgba(232, 235, 237, 0.000)</string>
+								</dict>
+								<key>identifier</key>
+								<string>BackgroundColor</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>100</string>
+								<key>startTime</key>
+								<real>7.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BackgroundColor</string>
+									<key>objectValue</key>
+									<string>rgba(232, 235, 237, 0.500)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>97066233-D3DC-401C-97A3-322476CF885A-41657-0000468FAF740A67</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
 								<string>ActionHandler</string>
@@ -9801,7 +9797,7 @@
 								<key>referenceOid</key>
 								<string>kTimelineDefaultIdentifier</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -9838,100 +9834,13 @@
 								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
-								<string>BorderColorBottom</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>100</string>
-								<key>startTime</key>
-								<real>7.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorBottom</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.000)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>1164F7BC-5F7F-4394-9890-D777B780A67C-41657-0000468D99913D6B</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>BorderColorTop</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>100</string>
-								<key>startTime</key>
-								<real>7.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorTop</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.000)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>28223191-C1D1-4F8C-8C10-929B29589692-41657-0000468D996E791B</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>BorderColorRight</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>100</string>
-								<key>startTime</key>
-								<real>7.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorRight</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.000)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>F98E0A0D-8748-4775-A891-113BF34726B9-41657-0000468D9949A538</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
 								<string>BorderColorLeft</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
 								<string>100</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -9960,7 +9869,7 @@
 								<key>referenceOid</key>
 								<string>100</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -9989,7 +9898,7 @@
 								<key>referenceOid</key>
 								<string>100</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -10018,7 +9927,7 @@
 								<key>referenceOid</key>
 								<string>100</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -10047,7 +9956,7 @@
 								<key>referenceOid</key>
 								<string>100</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -10076,7 +9985,7 @@
 								<key>referenceOid</key>
 								<string>100</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -10099,13 +10008,42 @@
 								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
+								<string>BorderColorBottom</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>100</string>
+								<key>startTime</key>
+								<real>10</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BorderColorBottom</string>
+									<key>objectValue</key>
+									<string>rgba(255, 255, 255, 0.000)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>1164F7BC-5F7F-4394-9890-D777B780A67C-41657-0000468D99913D6B</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
 								<string>ScaleX</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
 								<string>100</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -10121,6 +10059,64 @@
 								<integer>0</integer>
 								<key>uuid</key>
 								<string>A3F24D46-35F4-481D-83C6-7B16328A845B-41657-0000458985D71D1F</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>BorderColorTop</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>100</string>
+								<key>startTime</key>
+								<real>10</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BorderColorTop</string>
+									<key>objectValue</key>
+									<string>rgba(255, 255, 255, 0.000)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>28223191-C1D1-4F8C-8C10-929B29589692-41657-0000468D996E791B</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>BorderColorRight</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>100</string>
+								<key>startTime</key>
+								<real>10</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BorderColorRight</string>
+									<key>objectValue</key>
+									<string>rgba(255, 255, 255, 0.000)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>F98E0A0D-8748-4775-A891-113BF34726B9-41657-0000468D9949A538</string>
 								<key>zIndex</key>
 								<integer>4</integer>
 							</dict>
@@ -10142,13 +10138,11 @@
 			</dict>
 		</dict>
 		<dict>
-			<key>currentGroupElement</key>
-			<string>117</string>
 			<key>documentIdentifier</key>
-			<string>8C49A8D3-E4C1-41DF-BCED-7715F0AD1DAF-68299-00006D29508AC55C</string>
+			<string>B35299BC-14B6-4A1C-992F-6343C61FFA67-5467-000010370C15F1B7</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>116</string>
+				<string>114</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -10492,15 +10486,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>OriginalHeight</string>
 							<key>objectValue</key>
-							<string>0px</string>
+							<string>2246px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>4150px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -10660,15 +10654,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalHeight</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
-							<string>2246px</string>
+							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>4150px</string>
 						</dict>
 					</array>
 					<key>116</key>
@@ -10681,9 +10675,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#000000</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -10843,9 +10837,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#000000</string>
 						</dict>
 					</array>
 					<key>117</key>
@@ -11371,7 +11365,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -11407,7 +11401,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -11443,7 +11437,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -11479,7 +11473,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -11515,7 +11509,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -11551,7 +11545,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -11587,7 +11581,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -11623,7 +11617,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -11659,7 +11653,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -11695,7 +11689,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>2.5</real>
+								<real>5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -11746,7 +11740,7 @@
 								<key>referenceOid</key>
 								<string>114</string>
 								<key>startTime</key>
-								<real>5</real>
+								<real>7.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -11771,114 +11765,6 @@
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0.1</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>114</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>65C52C7D-2A32-4C7B-AF41-78B4E5458C60-41657-0000459997113436</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>2.5</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Left</string>
-									<key>objectValue</key>
-									<string>1290px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Left</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>114</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Left</string>
-									<key>objectValue</key>
-									<string>10px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>BFAA627A-37DE-489F-A29F-78CBBD4CF019-41657-00004592A90889ED</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>2.5</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Top</string>
-									<key>objectValue</key>
-									<string>175px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Top</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>114</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Top</string>
-									<key>objectValue</key>
-									<string>10px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>B193EB99-ED0C-45AF-807D-E9F14B63B772-41657-00004592D1598EB2</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>2.5</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
 									<string>ScaleY</string>
 									<key>objectValue</key>
 									<string>2</string>
@@ -11890,7 +11776,7 @@
 								<key>referenceOid</key>
 								<string>114</string>
 								<key>startTime</key>
-								<real>5</real>
+								<real>7.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -11915,114 +11801,6 @@
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>BackgroundColor</string>
-									<key>objectValue</key>
-									<string>rgba(232, 235, 237, 0.000)</string>
-								</dict>
-								<key>identifier</key>
-								<string>BackgroundColor</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>114</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BackgroundColor</string>
-									<key>objectValue</key>
-									<string>rgba(232, 235, 237, 0.500)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>97066233-D3DC-401C-97A3-322476CF885A-41657-0000468FAF740A67</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>2.5</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorLeft</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.000)</string>
-								</dict>
-								<key>identifier</key>
-								<string>BorderColorLeft</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>114</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorLeft</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.500)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>3B89E6F5-DDE9-4DE4-8655-1F796D69E1AB-41657-000046915DE8DAE4</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>2.5</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorRight</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.000)</string>
-								</dict>
-								<key>identifier</key>
-								<string>BorderColorRight</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>114</string>
-								<key>startTime</key>
-								<real>5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorRight</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.500)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>4B95D43D-11DE-4837-BE2D-849A720AA666-41657-000046915E1F29E5</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>2.5</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
 									<string>BorderColorTop</string>
 									<key>objectValue</key>
 									<string>rgba(255, 255, 255, 0.000)</string>
@@ -12034,7 +11812,7 @@
 								<key>referenceOid</key>
 								<string>114</string>
 								<key>startTime</key>
-								<real>5</real>
+								<real>7.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -12059,6 +11837,186 @@
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0.1</string>
+								</dict>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>114</string>
+								<key>startTime</key>
+								<real>7.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>65C52C7D-2A32-4C7B-AF41-78B4E5458C60-41657-0000459997113436</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>2.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>175px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Top</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>114</string>
+								<key>startTime</key>
+								<real>7.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>10px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>B193EB99-ED0C-45AF-807D-E9F14B63B772-41657-00004592D1598EB2</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>2.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BorderColorLeft</string>
+									<key>objectValue</key>
+									<string>rgba(255, 255, 255, 0.000)</string>
+								</dict>
+								<key>identifier</key>
+								<string>BorderColorLeft</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>114</string>
+								<key>startTime</key>
+								<real>7.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BorderColorLeft</string>
+									<key>objectValue</key>
+									<string>rgba(255, 255, 255, 0.500)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>3B89E6F5-DDE9-4DE4-8655-1F796D69E1AB-41657-000046915DE8DAE4</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>2.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>1290px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Left</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>114</string>
+								<key>startTime</key>
+								<real>7.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>10px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>BFAA627A-37DE-489F-A29F-78CBBD4CF019-41657-00004592A90889ED</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>2.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BorderColorRight</string>
+									<key>objectValue</key>
+									<string>rgba(255, 255, 255, 0.000)</string>
+								</dict>
+								<key>identifier</key>
+								<string>BorderColorRight</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>114</string>
+								<key>startTime</key>
+								<real>7.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BorderColorRight</string>
+									<key>objectValue</key>
+									<string>rgba(255, 255, 255, 0.500)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>4B95D43D-11DE-4837-BE2D-849A720AA666-41657-000046915E1F29E5</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>2.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
 									<string>BorderColorBottom</string>
 									<key>objectValue</key>
 									<string>rgba(255, 255, 255, 0.000)</string>
@@ -12070,7 +12028,7 @@
 								<key>referenceOid</key>
 								<string>114</string>
 								<key>startTime</key>
-								<real>5</real>
+								<real>7.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -12091,6 +12049,42 @@
 							</dict>
 							<dict>
 								<key>duration</key>
+								<real>2.5</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BackgroundColor</string>
+									<key>objectValue</key>
+									<string>rgba(232, 235, 237, 0.000)</string>
+								</dict>
+								<key>identifier</key>
+								<string>BackgroundColor</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>114</string>
+								<key>startTime</key>
+								<real>7.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BackgroundColor</string>
+									<key>objectValue</key>
+									<string>rgba(232, 235, 237, 0.500)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>97066233-D3DC-401C-97A3-322476CF885A-41657-0000468FAF740A67</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
 								<string>ActionHandler</string>
@@ -12099,7 +12093,7 @@
 								<key>referenceOid</key>
 								<string>kTimelineDefaultIdentifier</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -12136,42 +12130,13 @@
 								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
-								<string>BorderColorBottom</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>114</string>
-								<key>startTime</key>
-								<real>7.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorBottom</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.000)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>1164F7BC-5F7F-4394-9890-D777B780A67C-41657-0000468D99913D6B</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
 								<string>BorderColorTop</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
 								<string>114</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -12194,158 +12159,13 @@
 								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
-								<string>BorderColorRight</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>114</string>
-								<key>startTime</key>
-								<real>7.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorRight</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.000)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>F98E0A0D-8748-4775-A891-113BF34726B9-41657-0000468D9949A538</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>BorderColorLeft</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>114</string>
-								<key>startTime</key>
-								<real>7.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BorderColorLeft</string>
-									<key>objectValue</key>
-									<string>rgba(255, 255, 255, 0.000)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>A255123E-8241-4ABC-A66D-E213CCDB3EB2-41657-0000468D991B25DF</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>BackgroundColor</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>114</string>
-								<key>startTime</key>
-								<real>7.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>BackgroundColor</string>
-									<key>objectValue</key>
-									<string>rgba(232, 235, 237, 0.000)</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>F1346D6B-4633-436C-9690-B5827E6735CA-41657-0000468C6C619DB9</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>ScaleY</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>114</string>
-								<key>startTime</key>
-								<real>7.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>ScaleY</string>
-									<key>objectValue</key>
-									<string>2</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>0998FC05-CD96-49E2-AE50-1B7ECF767C18-41657-0000458986058BD6</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>Top</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>114</string>
-								<key>startTime</key>
-								<real>7.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Top</string>
-									<key>objectValue</key>
-									<string>175px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>FAD2BF79-95A0-408E-87B4-C2340372A909-41657-0000458EF63F6A1B</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
 								<string>Left</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
 								<string>114</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -12368,19 +12188,19 @@
 								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
-								<string>Opacity</string>
+								<string>BorderColorBottom</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
 								<string>114</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>Opacity</string>
+									<string>BorderColorBottom</string>
 									<key>objectValue</key>
-									<string>0.1</string>
+									<string>rgba(255, 255, 255, 0.000)</string>
 								</dict>
 								<key>symbolElementActionAttributesBySymbolTimeline</key>
 								<dict/>
@@ -12389,7 +12209,123 @@
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>93CEDF53-866D-41E7-8ED9-5F0E768FD334-41657-00004597AE1058E5</string>
+								<string>1164F7BC-5F7F-4394-9890-D777B780A67C-41657-0000468D99913D6B</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Top</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>114</string>
+								<key>startTime</key>
+								<real>10</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>175px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>FAD2BF79-95A0-408E-87B4-C2340372A909-41657-0000458EF63F6A1B</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>ScaleY</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>114</string>
+								<key>startTime</key>
+								<real>10</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>ScaleY</string>
+									<key>objectValue</key>
+									<string>2</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>0998FC05-CD96-49E2-AE50-1B7ECF767C18-41657-0000458986058BD6</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>BackgroundColor</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>114</string>
+								<key>startTime</key>
+								<real>10</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BackgroundColor</string>
+									<key>objectValue</key>
+									<string>rgba(232, 235, 237, 0.000)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>F1346D6B-4633-436C-9690-B5827E6735CA-41657-0000468C6C619DB9</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>BorderColorLeft</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>114</string>
+								<key>startTime</key>
+								<real>10</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BorderColorLeft</string>
+									<key>objectValue</key>
+									<string>rgba(255, 255, 255, 0.000)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>A255123E-8241-4ABC-A66D-E213CCDB3EB2-41657-0000468D991B25DF</string>
 								<key>zIndex</key>
 								<integer>4</integer>
 							</dict>
@@ -12403,7 +12339,7 @@
 								<key>referenceOid</key>
 								<string>114</string>
 								<key>startTime</key>
-								<real>7.5</real>
+								<real>10</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -12419,6 +12355,64 @@
 								<integer>0</integer>
 								<key>uuid</key>
 								<string>A3F24D46-35F4-481D-83C6-7B16328A845B-41657-0000458985D71D1F</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>BorderColorRight</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>114</string>
+								<key>startTime</key>
+								<real>10</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>BorderColorRight</string>
+									<key>objectValue</key>
+									<string>rgba(255, 255, 255, 0.000)</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>F98E0A0D-8748-4775-A891-113BF34726B9-41657-0000468D9949A538</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>114</string>
+								<key>startTime</key>
+								<real>10</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0.1</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>93CEDF53-866D-41E7-8ED9-5F0E768FD334-41657-00004597AE1058E5</string>
 								<key>zIndex</key>
 								<integer>4</integer>
 							</dict>
