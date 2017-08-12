@@ -39,7 +39,7 @@ Easiest if this is triggered when the Visa statement arrives.
 - reconcile the Visa statement
     + find, print, enter into QBO, and pay the missed expenses
 - Go to the Expenses section of QBO
-- Filter the list of expenses by recently paid 
+- Repeat: Filter the list of expenses by each transaction type, status, and date range (ie expense, bill (status=paid), ...)
 
 ![QBO Transaction Filter]({filename}/images/qbo-filter.png)
 
@@ -48,8 +48,6 @@ Easiest if this is triggered when the Visa statement arrives.
 ![QBO Export Transactions]({filename}/images/qbo-export_transactions.png)
 
 - change the "attachment" column to be "in envelope"
-- make sure there are some transactions listed before the range of interest (it's not clear what defines a "recently")
-- in the spreadsheet, delete the transactions outside the timeframe of interest
 - add a final row with a `=counta()` to count the number of transactions. It should match the number of invoices/paid bills/receipts in the envelope.
 - Also add a `sum()` in the final row to calculate the total value of expenses paid this month. This should match the actual outgoing cash this month.
 - print this spreadsheet
@@ -61,23 +59,26 @@ Easiest if this is triggered when the Visa statement arrives.
 #### Income
 
 - go to "sales" -> "all sales"
-- Set the filter to "recently paid"
+- Filter on "money received" and set the date range
 - export the list to your spreadsheet app
-- make sure there are some transactions from before the range of interest (it's not clear what defines "recent")
 - modify the "attachments" column to be "in envelope"
-- add a new column "Received" that `=total-balance` (to account for partial payments)
-- add an extra, final row
+- add an "invoice/sale" column to the spreadsheet
+- add an extra, final row to the spreadsheet
 - in this new row insert a cell which adds a `=counta()` of all the transactions. This number should match the number of invoices/sales slips in the envelope.
-- in this new row insert a cell `=sum(received)`. This should be the actual cash recieved for the month
-- print this spreadsheet
+- in this new row insert a cell `=sum()`. This should be the actual cash recieved for the month
 - get a new envelope
-- mark of income invoices on the spreadsheet as you put them in the envelope
-    - find/print any missing ones
+- in QBO, click on each Payment, find the invoice/sale it's applied to
+- add the invoice/sale number to the spreadsheet
+- print the invoice/sales receipt
+- print this spreadsheet
+- mark of income invoices, sales, etc on the spreadsheet as you put them in the envelope
 - staple the spreadsheet to the months income envelope and file it in the folder for that month  
 
 **Note** 
 
-There a subtle difference between using "recently paid" and filtering eg invoices by a status of "paid" for the month of interest. Filtering by trasaction type and status will only show you transactions that were issued *and* paid in that month. You won't see any transactions that were issued before the period of interest but paid in the time of interest.
+There a subtle difference between filtering on "money recieved" and specific transaction type and status for the month of interest. Filtering on "money received" will include payments for invoices issued in previous months! 
+
+For example, filtering on "invoices" that were paid in July won't show any invoices from June, May, ... that were also paid in June. Whereas filtering on "money recieved" will show the invoices paid in July as well as June, May, etc.
 
 ### Result
 
@@ -86,6 +87,8 @@ Each month ends up with an archival copy of all funds recieved and paid.
 They've been checked, and the total on the summary sheet has been calculated outside of QBO.
 
 ### Notes
+
+*Partial payments will be missing* - 
 
 The data in QBO is *acrual based*. That is the values recorded may not match the actual monies recieved.
 
