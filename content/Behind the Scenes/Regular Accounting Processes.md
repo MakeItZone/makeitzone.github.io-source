@@ -23,7 +23,7 @@ For Visa Purchases
 - 1-2 Days Later bill payment will appear in the banking section of QBO
 - change the transaction type to *transfer*. Destination account should be the Visa account in QBO
 
-*Note* - Desjardin's business Visa has one of the worst online systems I've used. With their standard tools there is no way to download transactions. If you can download your Visa transactions, you should be able to *match* the bill payments from your bank account to the payments on the Visa account.
+*Note* - The above is for a Visa card that does not provide a means to download a record of transactions. If you can download your Visa transactions, you should be able to import them and then *match* the bill payments from your bank account to the payments on the Visa account.
 
 #### Income
 
@@ -40,9 +40,13 @@ Easiest if this is triggered when the Visa statement arrives.
     + find, print, enter into QBO, and pay the missed expenses
 - Go to the Expenses section of QBO
 - Filter the list of expenses by recently paid 
-{% img qbo-filter.png %}
+
+![QBO Transaction Filter]({filename}/images/qbo-filter.png)
+
 - export the list of transactions to your spreadsheet app
-{% img qbo-export_transactions.png %}
+
+![QBO Export Transactions]({filename}/images/qbo-export_transactions.png)
+
 - change the "attachment" column to be "in envelope"
 - make sure there are some transactions listed before the range of interest (it's not clear what defines a "recently")
 - in the spreadsheet, delete the transactions outside the timeframe of interest
