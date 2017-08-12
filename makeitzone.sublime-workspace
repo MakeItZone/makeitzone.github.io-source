@@ -3,6 +3,10 @@
 	{
 		"selected_items":
 		[
+			[
+				"back",
+				"background-color"
+			]
 		]
 	},
 	"buffers":
@@ -72,36 +76,32 @@
 	[
 		"/Users/julian/virtualenvs/makeitzone.github.io-source",
 		"/Users/julian/virtualenvs/makeitzone.github.io-source/content",
-		"/Users/julian/virtualenvs/makeitzone.github.io-source/output/SVGnest",
-		"/Users/julian/virtualenvs/makeitzone.github.io-source/src",
-		"/Users/julian/virtualenvs/makeitzone.github.io-source/src/pelican-themes",
-		"/Users/julian/virtualenvs/makeitzone.github.io-source/src/pelican-themes/pelican-bootstrap3",
-		"/Users/julian/virtualenvs/makeitzone.github.io-source/src/pelican-themes/pelican-bootstrap3/templates",
-		"/Users/julian/virtualenvs/makeitzone.github.io-source/src/pelican-themes/pelican-bootstrap3/templates/includes",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/css",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/pages",
 		"/Users/julian/virtualenvs/makeitzone.github.io-source/thirdparty",
 		"/Users/julian/virtualenvs/makeitzone.github.io-source/vision-animation"
 	],
 	"file_history":
 	[
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/pages/vision.md",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/pages/home.md",
 		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/pages/tools.md",
+		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/css/home.css",
 		"/Users/julian/virtualenvs/makeitzone.github.io-source/.travis.yml",
 		"/Users/julian/virtualenvs/makeitzone.github.io-source/Makefile",
 		"/Users/julian/virtualenvs/makeitzone.github.io-source/develop_server.sh",
 		"/Users/julian/virtualenvs/makeitzone.github.io-source/deploy.sh",
 		"/Users/julian/virtualenvs/makeitzone.github.io-source/vision-animation/vision-animation-export/vision-animation-export.html",
 		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/css/vision.css",
-		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/pages/vision.md",
 		"/Users/julian/virtualenvs/makeitzone.github.io-source/output/vision-animation/vision-animation-export.html",
 		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/pages/membership.md",
 		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/pages/services.md",
 		"/Users/julian/virtualenvs/makeitzone.github.io-source/pelicanconf.py",
 		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/pages/3dprinting.md",
 		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/pages/lasercutting.md",
-		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/pages/home.md",
 		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/pages/classes.md",
 		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/js/lasercutting.js",
 		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/css/lasercutting.css",
-		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/css/home.css",
 		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/css/services.css",
 		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/js/services.js",
 		"/Users/julian/virtualenvs/makeitzone.github.io-source/content/pages/contact.md",
@@ -180,6 +180,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			">>",
 			"{filename}",
 			"template",
 			"OUTPUT",
