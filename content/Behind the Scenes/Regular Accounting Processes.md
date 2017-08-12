@@ -69,7 +69,7 @@ Easiest if this is triggered when the Visa statement arrives.
 - get a new envelope
 - in QBO, click on each Payment, find the invoice/sale it's applied to
 - add the invoice/sale number to the spreadsheet
-- print the invoice/sales receipt
+- print the invoice/sales receipt (including partial payments!)
 - print this spreadsheet
 - mark of income invoices, sales, etc on the spreadsheet as you put them in the envelope
 - staple the spreadsheet to the months income envelope and file it in the folder for that month  
@@ -78,17 +78,16 @@ Easiest if this is triggered when the Visa statement arrives.
 
 There a subtle difference between filtering on "money recieved" and specific transaction type and status for the month of interest. Filtering on "money received" will include payments for invoices issued in previous months! 
 
-For example, filtering on "invoices" that were paid in July won't show any invoices from June, May, ... that were also paid in June. Whereas filtering on "money recieved" will show the invoices paid in July as well as June, May, etc.
+For example, filtering on "invoices" that were paid in July won't show any invoices from June, May, ... that were also paid in July. Whereas filtering on "money recieved" will let you see all invoices that payments are against, independant of when they were issued.
+
 
 ### Result
 
-Each month ends up with an archival copy of all funds recieved and paid.
+Each month ends up with an archival copy of all funds recieved and paid that month.
 
-They've been checked, and the total on the summary sheet has been calculated outside of QBO.
+They've been verified, and the total on the summary sheet has been calculated outside of QBO as an extra check.
 
 ### Notes
-
-*Partial payments will be missing* - 
 
 The data in QBO is *acrual based*. That is the values recorded may not match the actual monies recieved.
 
@@ -97,3 +96,5 @@ The archival paperwork is *cash based*: ie an invoice only appears in one months
 eg an invoice issued in June but paid in July appears only in the July archive as thats when it was paid/the funds were received.
 
 If the archives where acrual based, the (unpaid) invoice would be in the June archive, and the payment/reprint (marked as paid) would be in the July archive. That could be nearly 2x more peices of paper to generate, sort, and store!
+
+Exception: Partial payments. Then the invoice will appear in multiple months records- until it is completely paid.
